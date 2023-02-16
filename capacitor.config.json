@@ -1,0 +1,8 @@
+{
+    "appId": "io.ionic.ispp",
+    "appName": "ISPP 2023",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+}
