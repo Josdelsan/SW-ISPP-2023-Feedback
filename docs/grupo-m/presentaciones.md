@@ -13,3 +13,5 @@ sidebar_position: 9
 - Es recomendable añadir una paginación a las presentaciones para al recibir feedback poder hacer referencias a páginas más que a contenidos.
 - Buscar homogeneidad a la hora de hacer una presentación, con una estética acorde al tema tratado.
 - Hacer uso de técnicas como la gamificación o el uso de metáforas gráficas descriptivas para hacer más amena la presentación.
+
+## Semana 2
