@@ -3,7 +3,7 @@ sidebar_position: 9
 ---
 
 # Presentación
-## Primera semana:
+## Semana 1:
 - El texto que se muestra en las presentaciones debe estar muy seleccionado, ser preciso y claro ya que el oyente no puede leer y escuchar a la vez.
 - Hay que tener un plan sobre que se va a decir en cada página de la presentación, no sirve de nada tener una presentación y leerla, todos sabemos leer.
 - Las presentaciones deben usarse como guión, no como apuntes.
