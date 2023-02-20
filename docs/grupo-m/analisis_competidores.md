@@ -12,3 +12,4 @@ sidebar_position: 1
 - Explicar el porque se han descartado algunos psoibles competidores.
 - Estudiar si hay algunos competidores los cuales tienen sus aplicaciones en desuso, y si es asi, analizar el porque llegaron a este punto.
 - Remarcar las keywords que se usaron para encontrar a los competidores.
+- Explicar las innovaciones que aporta nuestro producto sobre el de los competidores, explicando el porque merece la pena hacer este producto.
