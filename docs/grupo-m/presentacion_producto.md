@@ -7,5 +7,5 @@ sidebar_position: 12
 ## Semana 1
 
 ## Semana 2
-- Introducir la presentación del producto al principio.
-- Explicar la idea de manera clara y directa, las primeras frases y el discurso inicial son fundamentales.
+- Utilizar Mockups de diferentes partes de la aplicación que tenga valor, no incluir páginas de inicio de sesión o registro.
+- Mantener estilos y homogeneidad entre los mockups.
