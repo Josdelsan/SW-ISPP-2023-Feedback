@@ -9,3 +9,12 @@ sidebar_position: 10
 - Es importante hablar no siempre en el mismo tono y tener un volumen adecuado para que todos los oyentes puedan oirte con claridad.
 
 ## Semana 2
+- Presentarse al principio de la presentación.
+- Presentador único o, si son dos, hacer fluido el cambio.
+- Tener un plan B, C, D... en caso de fallar algún presentador, el portatil o incluso el proyector.
+- Usar el mando para las presentaciones, para no tener que estar avisando para pasar las diapositivas.
+- Si se utilizan palabra en otros idiomas se deben pronunciar bien.
+- Incluir inicios efectivos para captar la atención del oyente.
+- No hacer menciones a presentaciones anteriores.
+- Ajustarse al tiempo de la presentación, sin presentar demasiado rápido ni demasiado lento, aprovechando ese tiempo.
+- Recalcar la información de contacto al final de la presentación.
