@@ -9,4 +9,6 @@ sidebar_position: 1
 - La búsqueda de competidores es un proceso que se debe realizar durante todo el proceso de desarrollo de un producto ya que pueden aparecer nuevos competidores o competidores que hayan implementado nuestras funcionalidades más innovadoras.
 - Hay que definir por qué nuestra aplicación es más usable que la de otro competidor. ¿Qué es lo que realmente te diferencia de tu competidor? 
 ## Semana 2
-
+- Explicar el porque se han descartado algunos psoibles competidores.
+- Estudiar si hay algunos competidores los cuales tienen sus aplicaciones en desuso, y si es asi, analizar el porque llegaron a este punto.
+- Remarcar las keywords que se usaron para encontrar a los competidores.
