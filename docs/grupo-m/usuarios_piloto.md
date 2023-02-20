@@ -7,3 +7,7 @@ sidebar_position: 15
 - A la hora de definir nuestros usuarios pilotos cuando aún no se tengan los datos reales de estos, es una buena práctica definir tipos de usuarios a los que puede estar dirigida nuestra aplicación (perfiles de usuarios imaginarios)
 
 ## Semana 2
+- Incluir diferentes perfiles de usuarios piloto para recibir feedbacks de difernentes puntos de vista.
+- Mantener un contacto continuo, estar siempre disponible cuando el usuario piloto lo necesite.
+- Dar beneficios a los usuarios pilotos por su trabajo, por ejemplo; descuentos, ventajas en la salida del producto...
+- Dar facilidades al usuario piloto para que pueda dar su feedback, se recomienda usar encuestas.
