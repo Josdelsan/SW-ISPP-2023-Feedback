@@ -17,3 +17,13 @@ sidebar_position: 9
 - A la hora de definir un DAFO, se pueden obviar datos generales como "Somos un grupo de estudiantes y estamos empezando" o "Alta motivación" ya que estos datos es muy probable que sean comunes a todos los grupos  
 
 ## Semana 2
+- Se recomienda poner el número de página en la parte superior sin ser el protagonista de la presentación.
+- El discurso debe tener apoyo visual de lo que se esta contando.
+- No es necesario incluir índice, se hace pesado y realmente no es muy útil.
+- Se recomienda presentar la idea del proyecto desde el principio de la presentación, para poner en contexto a los oyentes.
+- No se deben poner diagrama UML, se recomienda poner algo más visual.
+- Usar una buena paleta de colores para que se vea todo bien.
+- Incluir leyendas en las tablas que incluyan iconos para aclara posibles dudas.
+- Buena idea añadir redes sociales y otras zonas de contacto al final de la presentación siempre y cuando estas esten activas.
+- Mejorar las metáforas visuales en los dafos, para que concuerde con lo que se esta contando y que no incluyan mucho texto.
+- Intentar no usar fondo negro.
