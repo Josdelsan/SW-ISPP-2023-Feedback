@@ -18,3 +18,12 @@ sidebar_position: 10
 - No hacer menciones a presentaciones anteriores.
 - Ajustarse al tiempo de la presentación, sin presentar demasiado rápido ni demasiado lento, aprovechando ese tiempo.
 - Recalcar la información de contacto al final de la presentación.
+
+## Semana 3
+- De nuevo, no hacer referencia a presentaciones anteriores.
+- No pararse en vocabulario concreto de la asignatura (por ejemplo, en vez de matchmaking, hablar de tipo de negocio).
+- Hay que transmitir con fuerza el mensaje del killer opener. 
+- Mirar a todo el público mientras presentamos.
+- De nuevo, tener siempre un apoyo visual.
+- Hacer referencia a las fuentes que utilicemos al dar datos específicos.
+- No ir continuamente hacia delante y hacia atrás en las diapositivas, ensayar mejor el discurso.

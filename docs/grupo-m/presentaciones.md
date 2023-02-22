@@ -27,3 +27,14 @@ sidebar_position: 9
 - Buena idea añadir redes sociales y otras zonas de contacto al final de la presentación siempre y cuando estas esten activas.
 - Mejorar las metáforas visuales en los dafos, para que concuerde con lo que se esta contando y que no incluyan mucho texto.
 - Intentar no usar fondo negro.
+
+## Semana 3
+- Hacer públicos los documentos a los que dirigen los códigos QR.
+- Que los códigos QR sean visibles durante un mayor tiempo para poder escanearlos.
+- El DAFO debe contar cosas concretas de nuestro proyecto, no genéricas.
+- No usar frases largas en las diapositivas.
+- No usar letra oscura con fondo oscuro. 
+- No usar letra pequeña.
+- La leyenda en las gráficas debe ser legible.
+- No incluir diagramas de casos de uso en la presentación. Los casos de uso se deben incluir como un resumen de las funcionalidades principales.
+- El QR final de encuesta de feedback es mejor ponerlo directamente en la diapositiva de agradecimientos.

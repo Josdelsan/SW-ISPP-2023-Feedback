@@ -11,3 +11,8 @@ sidebar_position: 15
 - Mantener un contacto continuo, estar siempre disponible cuando el usuario piloto lo necesite.
 - Dar beneficios a los usuarios pilotos por su trabajo, por ejemplo; descuentos, ventajas en la salida del producto...
 - Dar facilidades al usuario piloto para que pueda dar su feedback, se recomienda usar encuestas.
+
+## Semana 3
+- Hay que definir fechas de entrega o deadlines específicos, no semanas ni periodos.
+- De nuevo, recompensar a los usuarios pilotos para hacer que estén implicados.
+- Lo más importante de las encuestas a usuarios pilotos será analizar bien dichas respuestas.

@@ -16,3 +16,6 @@ sidebar_position: 2
 - No incluir muchos números en la presentación, ser más directos 
 - Incluir TCO y ROI, para ver la rentabilidad del producto, incluir gráficas de evolución es buena idea.
 - A los sueldos se le aplican impuestos como la seguridad social o el IRPF.
+
+## Semana 3
+- De nuevo aclarar lo que son los costes netos o brutos y los costes para la empresa.
