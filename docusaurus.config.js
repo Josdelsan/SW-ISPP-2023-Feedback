@@ -64,6 +64,10 @@ const config = {
                     label: 'Gestión del conocimiento',
                 },
                 {
+                    type: 'search',
+                    position: 'right',
+                },
+                {
                     href: 'https://github.com/Josdelsan/SW-ISPP-2023-Feedback',
                     label: 'GitHub',
                     position: 'right',
@@ -115,6 +119,14 @@ const config = {
             darkTheme: darkCodeTheme,
         },
     }),
+    plugins: [
+        [
+            require.resolve("docusaurus-plugin-search-local"),
+            {
+                // Options
+            }
+        ],
+    ],
 };
 
 module.exports = config;
