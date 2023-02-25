@@ -12,3 +12,6 @@ sidebar_position: 1
 
 ## Semana 2
 
+- Sólo definirse ser mejor porque se trabaja gratis no es aceptable. Posiblemente se debe diseñar una funcionalidad de pago futuro, para diferenciarse de otros competidores.  
+- Hace falta analizar mejor las aplicaciones fallidas de otros competidores. 
+- Encontrar el nicho, no buscar confrontarse contra competidores directos, se debe encontrar lo que no hacen ellos.
