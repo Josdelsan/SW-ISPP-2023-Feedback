@@ -27,6 +27,9 @@ sidebar_position: 9
 - Buena idea añadir redes sociales y otras zonas de contacto al final de la presentación siempre y cuando estas esten activas.
 - Mejorar las metáforas visuales en los dafos, para que concuerde con lo que se esta contando y que no incluyan mucho texto.
 - Intentar no usar fondo negro.
+- En caso de ser necesario hacer uso de micrófono y/o puntero. Se pueden pedir en conserjería
+- Si se van a usar iconos o colores para explicar comparaciones o tablas, usar una leyenda en la que se explique qué significa cada icono/color
+- Facilitar el QR además de en la presentación, por algún otro medio ya que puede haber dificultad para captarlo desde diferentes sitios de la clase. 
 
 ## Semana 3
 - Hacer públicos los documentos a los que dirigen los códigos QR.
