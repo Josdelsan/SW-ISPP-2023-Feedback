@@ -16,6 +16,7 @@ sidebar_position: 9
 - No usar diapositivas que no sean uniformes entre ellas. 
 - No incluir gráficas donde no se vean bien las unidades de medida de los ejes.
 - Las cifras de los costes en las presentaciones deben ser redondeadas (24.064,75€ -> 24.000€). 
+- Mantener un estilo homogéneo entre las distintas diapositivas de la presentación
 
 #### Orden de los contenidos
 
@@ -28,6 +29,7 @@ sidebar_position: 9
 - Todos los casos de uso deben estar en la presentación. Se debe de tener en cuenta que acciones básicas como el registro no son casos de uso core.  
 - ¿Cómo se han descubierto los competidores?, mencionar el análisis de competencia.
 - Si se ponen unos objetivos a cumplir, se deben decir las acciones concretas que se van a realizar para conseguirlos.  
+- El contenido incluido en las diapositivas debe ser explicado, incluyéndose tablas, gráficas e índices
 
 #### Matriz DAFO
 
@@ -83,3 +85,11 @@ sidebar_position: 9
 - La matriz DAFO no puede ser contener sólo los títulos (Debilidades, Amenazas, Fortalezas y Oportunidades).
 - La matriz DAFO no puede tener como riesgo la seguridad de la aplicación.
 - La falta de conocimiento no es parte de las debilidades de una matriz DAFO.
+
+
+## Semana 3
+
+#### Contenido de la presentación
+
+- Aunque el uso del PESTLE estuvo bien la semana anterior, consume tiempo de presentación y porta información redundante, lo ideal es no hacer uso de él y que esta información sea contenida en otras secciones de la presentación.
+

@@ -12,6 +12,9 @@ sidebar_position: 10
 - Es conveniente la asignación de uno/varios presentador/es para las presentaciones de cada semana, aunque lo mejor es asignar siempre a la misma persona.
 - Evitar presentación monótona y sin movimiento.
 - Evitar tartamudeo y coletillas como ‘eeehhh’.
+- Si una persona va a exponer y otra va a pasar las diapositivas, hace falta preparar señales para mejorar la coordinación
+- Para evitar problemas de compatibilidad, se recomienda exponer en formato PDF en lugar de en formato PPT
+- Al recibir feedback, evitar dar excusas para justificar un error
 
 ## Semana 2
 
@@ -21,3 +24,7 @@ sidebar_position: 10
 - No se debe estar tan estático mientras se presenta, una buena técnica para solucionar esto puede ser moverse un poco.
 - No deben hacer referencias a presentaciones pasadas.
 - Evitar presentaciones con demasiada narración, hace perder la atención del grupo.
+
+## Semana 3
+
+- No se debe presentar haciendo uso de la funcionalidad de "ensayar intervalos". No se debe tener un cronómetro visible en la pantalla, desvía la atención

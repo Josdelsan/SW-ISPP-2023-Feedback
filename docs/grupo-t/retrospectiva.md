@@ -15,3 +15,7 @@ sidebar_position: 14
 - Dar 5 minutos de cortesía antes de comenzar la primera presentación. 
 - Al menos la mitad del tiempo del feedback tiene que ser para los profesores, la distribución debe ser homogénea. 
 - Es muy importante aplicar los feedbacks de otras semanas.
+
+## Semana 3
+
+- Temas menores o ajenos al resto de la presentación, como la selección de tecnologías, deberían incluirse al final de la presentación.
