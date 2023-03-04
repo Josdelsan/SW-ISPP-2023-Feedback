@@ -13,3 +13,10 @@ sidebar_position: 2
 
 - No se debe incluir el IVA en los costes.
 - Se debe incluir el TCO (*Total Cost of Ownership*), teniendo en cuenta los costes de atención al cliente, y los SLA (*Service Level Agreement*).
+
+## Semana 3
+
+- En proyectos con planes de negocio, revisar el análsis de retorno de la inversión.
+- Analizar CAROS para el análisis de rentabilidad.
+- Ir directo a la información que se quiere transmitir sobre costes, no entrar en detalles no interesantes ni tampoco mostrar una cifra final sin raíz.
+- Estudios de rentabilidad para ver si la aplicación generará beneficios.

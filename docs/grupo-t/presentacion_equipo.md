@@ -21,4 +21,9 @@ sidebar_position: 11
 
 ## Semana 3
 
+- Es buena idea incluir roles secundarios debajo de la foto de cada miembro del grupo.
 - Es recomendable hacer uso de iconos y una leyenda para mostrar la distribución de roles en el equipo
+- Se ha valorado positivamente la modificación de la organización del equipo, ahora dividida por módulos.
+- Uniformidad de imágenes de miembros.
+- El rol de control de calidad es importante y debería ser asumido por al menos un miembro del equipo.
+- Otros roles importantes: secretarios, moderadores, project managers...

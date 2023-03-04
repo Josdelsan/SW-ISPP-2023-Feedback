@@ -27,4 +27,5 @@ sidebar_position: 10
 
 ## Semana 3
 
-- No se debe presentar haciendo uso de la funcionalidad de "ensayar intervalos". No se debe tener un cronómetro visible en la pantalla, desvía la atención
+- No se debe presentar haciendo uso de la funcionalidad de "ensayar intervalos". No se debe tener un cronómetro visible en la pantalla, desvía la atención.
+- Tener en mente el tiempo límite, para no desviarse en detalles irrelevantes.

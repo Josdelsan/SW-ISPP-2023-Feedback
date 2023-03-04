@@ -92,4 +92,19 @@ sidebar_position: 9
 #### Contenido de la presentación
 
 - Aunque el uso del PESTLE estuvo bien la semana anterior, consume tiempo de presentación y porta información redundante, lo ideal es no hacer uso de él y que esta información sea contenida en otras secciones de la presentación.
+- IMPORTANTE: Las presentaciones debe ser autocontenidas (evitar referencias al pasado).
+- El tipo de negocio siempre debe ir al inicio, jamás al final.
+- Algunos grupos aun no se adaptan al formato correcto del DAFO.
+- Aunque algunas diapositivas ya fueran explicadas anteriormente, no pasarlas rápidamente, explicarlas aunque estén comprimidas.
 
+#### Sobre las diapositivas
+
+- Si se pasa muy rápido de algunas diapositivas igual es porque carecen de importancia y realmente no deberían estar ahí. Tampoco se debe pasar de puntillas de estas por ir justos de tiempo, crea una sensación no agradable.
+- Recalcar la importancia de que toda fuente, tabla o imagen sea visible (a nivel de tamaño).
+- Favorece el uso de un fondo claro.
+- Buena idea el uso de punteros para los mockups.
+- Fomentar el uso de gráficos y esquemas.
+
+#### Sobre los moderadores
+
+- El moderador tiene que ir levantándose para ir indicando el tiempo que va quedando, si se pasan del tiempo cortar al que presenta.

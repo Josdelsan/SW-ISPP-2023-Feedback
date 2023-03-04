@@ -11,3 +11,7 @@ sidebar_position: 7
 - Funciones que dan valor y que diferencian de la competencia son prioritarias.
 
 ## Semana 2
+- No procede.
+
+## Semana 3
+- No se debe olvidar realizar una introducción del producto y no tratar de entrar de lleno en otros temas de mayor importancia al inicio.
