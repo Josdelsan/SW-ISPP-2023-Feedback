@@ -2,7 +2,7 @@
 sidebar_position: 16
 ---
 
-# Usuarios piloto
+# Tecnologías empleadas
 
 ## Semana 1
 
