@@ -19,3 +19,7 @@ sidebar_position: 14
 ## Semana 3
 
 - Temas menores o ajenos al resto de la presentación, como la selección de tecnologías, deberían incluirse al final de la presentación.
+
+## Semana 4 (Evaluación - DP)
+
+- Mantener las puertas de la clase cerradas para reducir el ruido de fondo que se pueda producir.

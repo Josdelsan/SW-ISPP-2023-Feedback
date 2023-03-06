@@ -15,3 +15,7 @@ sidebar_position: 8
 ## Semana 3
 
 - Los mockups de algunos grupos eran mejorables, a nivel global.
+
+## Semana 4 (Evaluación - DP)
+
+- No procede

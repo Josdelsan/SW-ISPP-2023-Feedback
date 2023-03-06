@@ -18,3 +18,7 @@ sidebar_position: 16
 - La idea de presentar las skills del grupo a través de porcetanjes es buena.
 - No detallar Scrum.
 - Para las tecnologías hacer diagrama uml de tecnologías, para que quede claro en que momento del proceso intervienen las tecnologías.
+
+## Semana 4 (Evaluación - DP)
+
+- No procede.

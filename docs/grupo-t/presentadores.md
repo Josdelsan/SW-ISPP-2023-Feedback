@@ -29,3 +29,8 @@ sidebar_position: 10
 
 - No se debe presentar haciendo uso de la funcionalidad de "ensayar intervalos". No se debe tener un cronómetro visible en la pantalla, desvía la atención.
 - Tener en mente el tiempo límite, para no desviarse en detalles irrelevantes.
+
+## Semana 4 (Evaluación - DP)
+
+- Hay que evitar el uso de *"palabras baúl"* ya que aunque suenen bien no añaden información.
+- El uso del humor a lo largo de la presentación es una gran herramienta para mantener la atención del público.

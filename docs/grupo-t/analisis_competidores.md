@@ -21,3 +21,10 @@ sidebar_position: 1
 
 - Marcar la diferencia del propio producto con el de los competidores.
 - Analizar bases legales de aplicaciones como blablacar para incluirlo en el PESTLE
+
+## Semana 4 (Evaluación - DP)
+
+- A la hora de analizar los competidores, no solo hay que quedarse con los aspectos negativos, sino también los aspectos positivos.
+- No es correcto desestimar a un competidor porque este haya tenido una mala recepción en el mercado, hay que analizar los hechos por los que no ha sido bien recibido y corregirlos respecto a nuestro proyecto.
+- No es correcto analizar solo el mercado que ocupan los competidores.
+- Hay que diseñar planes de contingencia realistas para los competidores que ocupen un mismo nicho de mercado o similar al que vayamos a ocupar.

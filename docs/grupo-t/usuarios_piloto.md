@@ -19,3 +19,9 @@ sidebar_position: 15
 - Extenderse en el plan de acción de usuarios pilotos, resaltar fechas, procedimientos, tecnologías a emplear.
 - Detallar qué se va a hacer semanalmente, no ir de pasada en este tema.
 - Realizar análisis acerca de si los usuarios pagarían por nuestro producto.
+
+## Semana 4 (Evaluación - DP)
+
+- En la planificación se debería poner días concretos o momentos específicos a lo largo del proyecto.
+- Hay que clasificar los distintos usuarios piloto en categorías, no solo en técnico o no técnico, en el caso de que una aplicación tenga más de un rol.
+- A la hora de considerar los usuarios piloto hay que hacer uso de estadísticas realistas y explicar como se han obtenido.

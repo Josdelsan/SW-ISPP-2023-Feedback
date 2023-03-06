@@ -108,3 +108,13 @@ sidebar_position: 9
 #### Sobre los moderadores
 
 - El moderador tiene que ir levantándose para ir indicando el tiempo que va quedando, si se pasan del tiempo cortar al que presenta.
+
+## Semana 4 (Evaluación - DP)
+
+#### Contenido de la presentación
+
+- El orden en el que se presentan los diferentes temas es importante, es bueno que el producto sea siempre lo primero que se presente, un orden lógico es siempre la mejor opción. Por ejemplo a la hora de presentar las tecnologías es bueno empezar explicando el por qué se han elgido unas frente a otras y concluyendo con las elecciones finales.
+
+- Evitar el uso de animaciones ya que son redundantes y pueden reducir la calidad de la presentación.
+
+

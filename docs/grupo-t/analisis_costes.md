@@ -20,3 +20,7 @@ sidebar_position: 2
 - Analizar CAROS para el análisis de rentabilidad.
 - Ir directo a la información que se quiere transmitir sobre costes, no entrar en detalles no interesantes ni tampoco mostrar una cifra final sin raíz.
 - Estudios de rentabilidad para ver si la aplicación generará beneficios.
+
+## Semana 4 (Evaluación - DP)
+
+- Es necesario que a la hora de representar los costes quede visualmente claro, respetando los márgenes y siguiendo un orden lógico.

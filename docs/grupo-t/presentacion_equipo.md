@@ -27,3 +27,7 @@ sidebar_position: 11
 - Uniformidad de imágenes de miembros.
 - El rol de control de calidad es importante y debería ser asumido por al menos un miembro del equipo.
 - Otros roles importantes: secretarios, moderadores, project managers...
+
+## Semana 4 (Evaluación - DP)
+
+- Usar iconos o imágenes para identificar de forma visual los roles del grupo ayuda a capturar al público, pero es necesario añadir un glosario o alguna forma de identificar los roles con su repectivo icono para guiar al público.
