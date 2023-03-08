@@ -17,3 +17,5 @@ sidebar_position: 1
 - El punto clave es la tabla de competidores, por lo que hay que centrarse más en esa diapositiva y no tanto en los detalles por separado de cada competidor. Explicar con el apoyo de la tabla todas las diferencias de nuestra aplicación con respecto a los competidores en su conjunto.
 - Recalcar bien las ventajas de usar nuestra aplicación frente a las demás, y que sean justificaciones de peso.
 - Si incluimos aplicaciones relacionadas que se usarán para inspiración, habrá que dividir el análisis en competición propia y productos relacionados. De todas formas, tendremos que centrarnos en los competidores y diferencias con ellos. 
+
+## Semana 4

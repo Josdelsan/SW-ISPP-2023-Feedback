@@ -12,3 +12,5 @@ sidebar_position: 7
 
 ## Semana 3
 - Definir bien cómo se monetizará la aplicación.
+
+## Semana 4

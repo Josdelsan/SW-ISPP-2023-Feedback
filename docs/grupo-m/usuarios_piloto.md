@@ -16,3 +16,6 @@ sidebar_position: 15
 - Hay que definir fechas de entrega o deadlines específicos, no semanas ni periodos.
 - De nuevo, recompensar a los usuarios pilotos para hacer que estén implicados.
 - Lo más importante de las encuestas a usuarios pilotos será analizar bien dichas respuestas.
+
+## Semana 4
+- Poner que días exactos se hacen las entregas y recogidas de feedback.

@@ -41,3 +41,14 @@ sidebar_position: 9
 - La leyenda en las gráficas debe ser legible.
 - No incluir diagramas de casos de uso en la presentación. Los casos de uso se deben incluir como un resumen de las funcionalidades principales.
 - El QR final de encuesta de feedback es mejor ponerlo directamente en la diapositiva de agradecimientos.
+
+## Semana 4
+- Hay que intentar destilar las presentaciones para no repetirse, poner las diapositivas en el orden en el que se van presentando.
+- Poner la planificación del Sprint.
+- Aumentar el tamaño de la letra.
+- Poner diapositiva del sistema de recompensa a usuarios pilotos.
+- Acompañar imágenes con texto.
+- De cosas teóricas contar solo las adaptaciones, no contar por ejemplo scrum, eso está en la teoría.
+- No poner negros sobre fondos oscuros.
+- No poner diagramas de casos de usos.
+- Poner etiquetas en los mockups para ver a que casos de uso hace referencias.

@@ -17,3 +17,7 @@ sidebar_position: 3
 - En la tabla comparativa debe aparecer nuestra empresa.
 - Debe haber trazabilidad entre los riesgos y los planes de contingencia.
 
+## Semana 4
+- Medir la evolución de un riesgo.
+- Tener en cuenta la legalidad del Scrapping.
+

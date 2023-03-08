@@ -19,3 +19,9 @@ sidebar_position: 2
 
 ## Semana 3
 - De nuevo aclarar lo que son los costes netos o brutos y los costes para la empresa.
+
+## Semana 4
+- Siempre que indiquemos datos económicos, indicar explícitamente el plazo temporal que abarca ese gasto.
+- Comentar si los costes son en brutos o netos.
+- Salarios no es la palabra correcta es coste de personal.
+- El análisis de coste debe ser lo más realista posible, no inventarse que se va a invertir miles de euros en el primer mes.

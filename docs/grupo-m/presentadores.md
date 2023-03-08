@@ -27,3 +27,7 @@ sidebar_position: 10
 - De nuevo, tener siempre un apoyo visual.
 - Hacer referencia a las fuentes que utilicemos al dar datos específicos.
 - No ir continuamente hacia delante y hacia atrás en las diapositivas, ensayar mejor el discurso.
+
+## Semana 4
+- A la hora de presentar, tener en cuenta a quién le estamos presentando el producto para adaptar el tono y la energía al público.
+- Dinámica de preguntas en una presentación es arriesgada.
