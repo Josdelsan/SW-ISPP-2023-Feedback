@@ -17,3 +17,7 @@ sidebar_position: 8
 - Si se está focalizando la aplicación a un foco naciona, el nombre debería ser en español.
 - Ir pensando en la gestión del marketing.
 - El precio de 2'95€ para la aplicación premium, ¿Cuántos usuarios se necesitan para rentabilizar el proyecto?
+
+## Semana 5
+- Storyboard para un anuncio para alguno de los roles interesados siguientes: Inversores, clientes y usuarios (clientes y usuarios son diferentes). Se suele empezar con los clientes. Que sea atractivo e innovador.
+

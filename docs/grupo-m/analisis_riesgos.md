@@ -21,3 +21,6 @@ sidebar_position: 3
 - Medir la evolución de un riesgo.
 - Tener en cuenta la legalidad del Scrapping.
 
+## Semana 5
+- Estimación y gestión de riesgos. Pero sobre todo medidas y soluciones tomadas
+

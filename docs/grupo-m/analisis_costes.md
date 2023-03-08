@@ -25,3 +25,6 @@ sidebar_position: 2
 - Comentar si los costes son en brutos o netos.
 - Salarios no es la palabra correcta es coste de personal.
 - El análisis de coste debe ser lo más realista posible, no inventarse que se va a invertir miles de euros en el primer mes.
+
+## Semana 5
+- Resumen de análisis de costes. No solo poner estimaciones, poner también análisis de rentabilidad, como evoluciona el beneficio (estimaciones optimistas, realistas y pesimistas)

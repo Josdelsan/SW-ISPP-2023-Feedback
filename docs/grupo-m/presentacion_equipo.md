@@ -16,3 +16,6 @@ sidebar_position: 11
 - Cuidado con las rotaciones en las funciones del equipo. 
 
 ## Semana 4
+
+## Semana 5
+- Poner roles de cada miembro.
