@@ -19,3 +19,6 @@ sidebar_position: 15
 
 ## Semana 4
 - Poner que días exactos se hacen las entregas y recogidas de feedback.
+
+## Semana 5
+- Gestión de usuarios pilotos y cómo se usará el feedback recopilado.
