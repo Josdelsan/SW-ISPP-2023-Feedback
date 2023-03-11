@@ -28,3 +28,7 @@ sidebar_position: 1
 - No es correcto desestimar a un competidor porque este haya tenido una mala recepción en el mercado, hay que analizar los hechos por los que no ha sido bien recibido y corregirlos respecto a nuestro proyecto.
 - No es correcto analizar solo el mercado que ocupan los competidores.
 - Hay que diseñar planes de contingencia realistas para los competidores que ocupen un mismo nicho de mercado o similar al que vayamos a ocupar.
+
+## Semana 5 (S1)
+
+- No procede.

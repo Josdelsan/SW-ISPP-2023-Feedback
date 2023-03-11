@@ -31,3 +31,10 @@ sidebar_position: 11
 ## Semana 4 (Evaluación - DP)
 
 - Usar iconos o imágenes para identificar de forma visual los roles del grupo ayuda a capturar al público, pero es necesario añadir un glosario o alguna forma de identificar los roles con su repectivo icono para guiar al público.
+
+## Semana 5 (S1)
+
+- Es una buena idea utilizar distintos colores para representar mejor visualmente cada rol del equipo.
+- Intentar definir un nombre para cada subgrupo, evitando así nombres genéricos como Subgrupo 1, 2, 3, ...
+- Si se habla de un rol "Evaluador", que se encarga de cerciorarse de que cada persona del grupo de trabajo ha cumplido con los plazos y las tares, debe definirse quién será el encargado de evaluar a la persona que tenga ese rol.
+- Debe incluirse el rendimiento individual, no hace falta etiquetarlo por persona, puede mostrarse de forma anónima.

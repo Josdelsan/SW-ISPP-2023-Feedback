@@ -25,3 +25,10 @@ sidebar_position: 12
 
 - Una buena forma de presentar el producto de forma efectiva puede ser haciendo uso de mockups y títulos, pararse en los mockups explicando que acciones podría realizar un usuario y como lo haría, ayuda a que el público se haga una idea de como funciona la aplicación.
 - Aunque sea bueno tener una *Landing page* la mejor forma de hacerlo es con una demo o capturas, evitando el uso de códigos QR, aunque se pueden añadir al final de la presentación si se considera conveniente.
+
+## Semana 5 (S1)
+
+- Se deben usar datos reales tanto en los *mockups* como en las demos se deben utilizar datos reales.
+- No incluir el inicio de sesión (*Login*) en la dema, centrarse en mostrar los casos de uso core.
+- Existe la posibilidad de que a una persona con mal estado de ánimo no lo puedas convencer de que escriba un texto. Ante eso, puede ser una buena idea tener textos predefinidos.
+- Puede ser buena idea indicar en el vídeo de la demo, a través de un texto o icono, a qué caso de uso se está haciendo referencia.

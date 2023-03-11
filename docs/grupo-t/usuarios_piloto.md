@@ -25,3 +25,8 @@ sidebar_position: 15
 - En la planificación se debería poner días concretos o momentos específicos a lo largo del proyecto.
 - Hay que clasificar los distintos usuarios piloto en categorías, no solo en técnico o no técnico, en el caso de que una aplicación tenga más de un rol.
 - A la hora de considerar los usuarios piloto hay que hacer uso de estadísticas realistas y explicar como se han obtenido.
+
+## Semana 5 (S1)
+
+- No usar un mismo canal para todos los usuarios piloto, ya que esto suele provocar autocensura.
+- No se puede computar como gasto el precio de usuario final, sino el coste de darle el servicio (restar a los beneficios esos gastos).

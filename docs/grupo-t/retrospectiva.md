@@ -23,3 +23,8 @@ sidebar_position: 14
 ## Semana 4 (Evaluación - DP)
 
 - Mantener las puertas de la clase cerradas para reducir el ruido de fondo que se pueda producir.
+
+## Semana 5 (S1)
+
+- Si alguien no cumple las reglas, se deben aplicar las normas. No hay que ser permisivo cuando se afecta al trabajo en grupo.
+- Puede ser buena técnica aplicar la técnica de los *strikes*, anotando un *strike* a una persona cada vez que incumple una regla.

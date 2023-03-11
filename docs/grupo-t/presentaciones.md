@@ -117,4 +117,34 @@ sidebar_position: 9
 
 - Evitar el uso de animaciones ya que son redundantes y pueden reducir la calidad de la presentación.
 
+## Semana 5 (S1)
 
+- Si se incluye música en la diapositiva el grupo se debe asegurar de que no tiene un volumen elevado, para que así no solape la voz del presentador. 
+
+#### Usuarios piloto
+
+- Deben indicarse días concretos al hablar sobre la gestión de usuarios piloto.
+- Se debe evitar incluir el nombre completo a la hora de hablar de los usuarios piloto para así no violar la Ley de Protección de Datos. Una buena idea puede ser incluir el nombre y las iniciales de los apellidos.
+
+#### Diseño de las diapositivas
+
+- Evitar usar mucho texto en una diapositiva.
+- Evitar usar imágenes que puedan tener derechos sin consentimiento.
+- Al hacer referencia al apartado correspondiente análisis de los competidores no denominarlo como "Análisis preliminar de competidores" sino como "Análisis de competidores".
+- Evitar usar imágenes que sean llamativas y tengan animación, ya que pueden llegar a distraer.
+- Evitar usar un color marrón oscuro como fondo de las diapositivas.
+- Dejar claro visualmente los competidores que abandonaron su proyecto, para así dar a entender que no representan un peligro.
+
+#### Contenido de la presentación
+
+- Evitar volver a nombrar el tipo de proyecto que se está realizando (*Matchmaking*, ...).
+- Es buena idea usar una fórmula cuantificada para analizar el rendimiento individual, aunque se debe evitar incluir un análisis demasiado técnico a la diapositiva.
+- Si se utiliza una fórmula para el cálculo del rendimiento individual se deben tener en cuenta los roles que desempeñan cada persona, además de su ayuda a la realización de tareas que no estén asignadas a él.
+- Tener cuidado a la hora de cerrar un problema que es muy genérico, dado que en un futuro puede volver a repetirse.
+- Es importante decir cómo se están aplicando las soluciones que se han utilizados para solventar.
+- Se deben analizar cómo han funcionado las soluciones aplicadas a lo largo del Sprint, determinando si han sido efectivas o no.
+- Se debe incluir una evolución en las tareas de código realizadas, ya sea con gráficas proporcionadas por Codacy, o por otras realizadas por el grupo, a partir de los datos extraídos de Codacy. 
+- Sería buena idea incluir en la última diapositiva, además de un QR de la *Landing page*, un e-mail de contacto para consultas.
+- No debe incluirse la matriz DAFO ni el *stack* tecnológico que se está usando en la presentación, dado que no se pide para el Sprint 1.
+- Se debe incluir todas las diapositivas asociadas al mismo tema seguidas, para así evitar romper el hilo argumental.
+- En la retrospectiva no tiene sentido hablar de tareas inacabadas.

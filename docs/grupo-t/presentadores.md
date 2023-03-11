@@ -34,3 +34,9 @@ sidebar_position: 10
 
 - Hay que evitar el uso de *"palabras baúl"* ya que aunque suenen bien no añaden información.
 - El uso del humor a lo largo de la presentación es una gran herramienta para mantener la atención del público.
+
+## Semana 5 (S1)
+
+- Al hablar sobre una tecnología *X* de la que está haciendo uso el grupo no decir "Vamos a utilizar *X*", sino "Estamos utilizando *X*".
+- Evitar el uso de expresiones imprecisas como "de lujo" o "del carajo" y dar datos precisos.
+- Debe realizarse la presentación con energía y entusiasmo.

@@ -24,3 +24,9 @@ sidebar_position: 6
 - Un inicio efectivo debe poder escucharse bien, los presentadores deben asegurarse de que no haya ruido de fondo evitable y deben hablar con voz alta y clara.
 - Un buen inicio efectivo puede consistir en tratar de temas de actualidad o algún interés personal que se pueda hilar con la presentación, el humor también es una gran herramienta para capturar la atención del público.
 - Es preferible que un inicio efectivo no requiera la participación del público, porque puede que el público no responda, evitando preguntas abiertas, una buena alternativa es usar preguntas retóricas y elegir voluntarios del público.
+
+## Semana 5 (S1)
+
+- El inicio efectivo debe estar relacionado con el proyecto.
+- Está bien relacionar el inicio efectivo con otros proyectos de la asignatura, pueden dar luegar a planes conjuntos en el futuro.
+- Para los proyectos que colaboran con ONG, puede ser buena idea hacer una llamada a la acción, tocando la fibra sensible, haciendo ver todos tenemos que hacer algo, como las personas que colaboran sin ánimo de lucro con estas organizaciones.
