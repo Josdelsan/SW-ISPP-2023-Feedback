@@ -21,7 +21,7 @@ sidebar_position: 16
 
 ## Semana 4 (Evaluación - DP)
 
-- No procede.
+- Es importante hacer uso de herramientas que permitan autogenerar los diagramas UML a partir de ingeniería inversa, para así agilizar la actualización de los diagramas UML
 
 ## Semana 5 (S1)
 

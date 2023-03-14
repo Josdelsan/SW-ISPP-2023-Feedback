@@ -117,6 +117,8 @@ sidebar_position: 9
 
 - Evitar el uso de animaciones ya que son redundantes y pueden reducir la calidad de la presentación.
 
+- Explicar cómo se va a hacer algo es importante, y es necesario contrastar estas explicaciones con datos reales
+
 ## Semana 5 (S1)
 
 - Si se incluye música en la diapositiva el grupo se debe asegurar de que no tiene un volumen elevado, para que así no solape la voz del presentador. 

@@ -21,6 +21,7 @@ sidebar_position: 13
 ## Semana 4 (Evaluación - DP)
 
 - Hay que explicar porque se va a usar o dejar de usar una determinada metodología y como se va a aplicar teniendo en cuenta que función cumplen las partes de esa metodología que se vayan a modificar y presentando bien las alternativas. En el caso de los *Daily Scrum* cual sería la alternativa y tener en cuenta las medidas, por otro lado, las altenativas deben ser razonables,  el *Daily Scrum* no se puede convertir en un *Weekly Scrum*.
+- Es importante detallar qué se hará en cada Sprint, no debería limitarse a indicar qué casos de uso se implementarán
 
 ## Semana 5 (S1)
 
