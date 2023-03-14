@@ -29,6 +29,6 @@ sidebar_position: 12
 ## Semana 5 (S1)
 
 - Se deben usar datos reales tanto en los *mockups* como en las demos se deben utilizar datos reales.
-- No incluir el inicio de sesión (*Login*) en la dema, centrarse en mostrar los casos de uso core.
+- No incluir el inicio de sesión (*Login*) en la demo, centrarse en mostrar los casos de uso core.
 - Existe la posibilidad de que a una persona con mal estado de ánimo no lo puedas convencer de que escriba un texto. Ante eso, puede ser una buena idea tener textos predefinidos.
 - Puede ser buena idea indicar en el vídeo de la demo, a través de un texto o icono, a qué caso de uso se está haciendo referencia.
