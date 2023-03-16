@@ -26,3 +26,7 @@ sidebar_position: 13
 ## Semana 5 (S1)
 
 - No procede.
+
+### Semana 6 (Evaluación - S1)
+
+- Es importante detallar qué se espera hacer en la próxima iteración al final de una iteración

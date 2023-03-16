@@ -150,3 +150,21 @@ sidebar_position: 9
 - No debe incluirse la matriz DAFO ni el *stack* tecnológico que se está usando en la presentación, dado que no se pide para el Sprint 1.
 - Se debe incluir todas las diapositivas asociadas al mismo tema seguidas, para así evitar romper el hilo argumental.
 - En la retrospectiva no tiene sentido hablar de tareas inacabadas.
+
+## Semana 6 (Evaluación - S1)
+
+#### Diseño de las diapositivas
+
+- Al mostrar datos (por ejemplo, calidad del código) debería asegurarse de que se vea bien
+- Importante cuidar la calidad visual de las transparencias. No debe haber información inútil, se debe destacar qué se quiere mostrar
+- El número de la diapositiva debe verse más claro
+- Es preferible presentar ideas una a una en lugar de mostrar muchas ideas a la vez. Puede hacerse en distintas diapositivas, separadas por animaciones, o de la forma que se vea conveniente. El objetivo es destacar aquello que quiere presentarse
+- Hacer mejor uso de espacio y colores, reducir cantidad de texto, incluso si implica tener una mayor cantidad de diapositivas
+
+#### Contenido de la presentación
+
+- Al mostrar datos (por ejemplo, calidad del código) debería asegurarse de que se vea bien
+- Importante cuidar la calidad visual de las transparencias. No debe haber información inútil, se debe destacar qué se quiere mostrar
+- El número de la diapositiva debe verse más claro
+- Es preferible presentar ideas una a una en lugar de mostrar muchas ideas a la vez. Puede hacerse en distintas diapositivas, separadas por animaciones, o de la forma que se vea conveniente. El objetivo es destacar aquello que quiere presentarse
+- Hacer mejor uso de espacio y colores, reducir cantidad de texto, incluso si implica tener una mayor cantidad de diapositivas

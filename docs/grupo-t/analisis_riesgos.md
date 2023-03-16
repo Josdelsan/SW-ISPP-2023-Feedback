@@ -25,3 +25,7 @@ sidebar_position: 3
 ## Semana 5 (S1)
 
 - No procede.
+
+## Semana 6 (Evaluación - S1)
+
+- Al identificar problemas, no sólo hay que dar solución, sino también analizar si la solución propuesta está funcionando. Debería hacerse con un objetivo/métrica

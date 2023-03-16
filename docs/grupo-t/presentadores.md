@@ -40,3 +40,9 @@ sidebar_position: 10
 - Al hablar sobre una tecnología *X* de la que está haciendo uso el grupo no decir "Vamos a utilizar *X*", sino "Estamos utilizando *X*".
 - Evitar el uso de expresiones imprecisas como "de lujo" o "del carajo" y dar datos precisos.
 - Debe realizarse la presentación con energía y entusiasmo.
+
+## Semana 6 (Evaluación - S1)
+
+- Si se expone con ruido de fondo (por ejemplo, aire acondicionado encendido), hay que tenerlo en cuenta y hablar más alto
+- Si se puede, se valora mucho que los presentadores interactúen entre sí de forma que amenicen la presentación (como buen ejemplo, los presentadores de FindMyFun)
+- En la demo, los datos incluidos deben ser realistas. Es decir, la información debe ser coherente, incluyendo las imágenes

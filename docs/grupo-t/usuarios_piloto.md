@@ -30,3 +30,10 @@ sidebar_position: 15
 
 - No usar un mismo canal para todos los usuarios piloto, ya que esto suele provocar autocensura.
 - No se puede computar como gasto el precio de usuario final, sino el coste de darle el servicio (restar a los beneficios esos gastos).
+
+### Semana 6 (Evaluación - S1)
+
+- Hay que categorizar y priorizar las distintas respuestas de feedback recogidas por los usuarios piloto, intentar analizar más las respuestas de nuestros usuarios
+- Se valora positivamente que el feedback de los usuarios piloto sea recibido en la misma aplicación
+- Se debería dirigir usuarios piloto a casos de uso específicos de interés para esos usuarios particulares
+- Es importante reinterpretar el feedback recibido para darle sentido. El feedback aportado tiene un por qué, y deberíamos encontrar ese motivo

@@ -28,3 +28,9 @@ sidebar_position: 2
 ## Semana 5 (S1)
 
 - No procede.
+
+## Semana 5 (S1)
+
+- Hay que hacer una previsión optimista, una realista y una pesimista de recuperación de la inversión
+- No debe incluirse IRPF ni similares en el análisis de costes
+- Hay que tener en cuenta el coste de mantenimiento del software al realizar el análisis de costes

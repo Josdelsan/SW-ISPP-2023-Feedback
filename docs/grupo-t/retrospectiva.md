@@ -28,3 +28,12 @@ sidebar_position: 14
 
 - Si alguien no cumple las reglas, se deben aplicar las normas. No hay que ser permisivo cuando se afecta al trabajo en grupo.
 - Puede ser buena técnica aplicar la técnica de los *strikes*, anotando un *strike* a una persona cada vez que incumple una regla.
+
+## Semana 6 (Evaluación - S1)
+
+- Al evaluar el rendimiento de distintos miembros del equipo, se debe evaluar a los miembros en base al rol del miembro evaluado
+- Conviene tener una forma extra de evaluar el rendimiento que permita distinguir entre los miembros de forma positiva más allá de la nota mostrada
+- Evaluar el rendimiento del equipo no tiene por qué estar directamente involucrado con la nota que se le asocia a cada miembro de cara al entregable
+- Se valora positivamente que la calidad del código sea determinante en la evaluación del rendimiento de los miembros. Idealmente, debería extrapolarse esta idea a tareas no relacionadas con el código
+- Es importante regular la cantidad de horas invertidas. Invertir más horas de las esperadas es tan malo como no llegar a las horas mínimas
+- Deben explicitarse los avances o atrasos de cada semana en la medida de lo posible
