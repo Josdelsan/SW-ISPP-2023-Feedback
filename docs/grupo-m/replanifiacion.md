@@ -13,3 +13,6 @@ sidebar_position: 13
 - En el primer sprint hay que incluir las funcionalidades core, es decir, lo que da valor y diferencia a nuestra aplicación (en la mayoría no deberían incluirse las funcionalidades de login ni registro).
 
 ## Semana 4
+
+## Semana 6
+- Las incidencias y comentarios de los usuarios pilotos son de alta prioridad, hay que estudiarlos cuantos antes y replanificar si hiciese falta

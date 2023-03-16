@@ -31,3 +31,8 @@ sidebar_position: 10
 ## Semana 4
 - A la hora de presentar, tener en cuenta a quién le estamos presentando el producto para adaptar el tono y la energía al público.
 - Dinámica de preguntas en una presentación es arriesgada.
+
+## Semana 6
+- Durante la presentación mostrar una actitud acorde con lo que se está explicando en la presentación (seriedad en los problemas, por ejemplo).
+- Más confianza al explicar, no repetir varias veces que "han intentado lo que han podido".
+- Evitar cambiar muchas veces de presentador, mejor mitad y mitad.

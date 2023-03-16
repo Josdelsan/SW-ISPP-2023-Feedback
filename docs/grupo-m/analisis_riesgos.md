@@ -24,3 +24,6 @@ sidebar_position: 3
 ## Semana 5
 - Estimación y gestión de riesgos. Pero sobre todo medidas y soluciones tomadas
 
+## Semama 6
+- Abordar lº os problemas de manera sistemática, hay que cuantificar y definirlo de manera exacta. Acciones concretas y efectividad.
+

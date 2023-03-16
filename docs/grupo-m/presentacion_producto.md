@@ -13,3 +13,9 @@ sidebar_position: 12
 ## Semana 3
 
 ## Semana 4
+
+## Semana 6
+- La video demo debe ser fácil de comprender, contextualizar lo que se está mostrando.
+- Seguir una "historia", es decir, seguir los pasos que haría un usuario que use la aplicación.
+- El contenido de la videodemo debe ser legible.
+- Usar datos realistas a la hora de hacer registros o subir datos a la aplicación para que aparente profesionalidad.

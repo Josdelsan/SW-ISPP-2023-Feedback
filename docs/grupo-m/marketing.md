@@ -21,3 +21,6 @@ sidebar_position: 8
 ## Semana 5
 - Storyboard para un anuncio para alguno de los roles interesados siguientes: Inversores, clientes y usuarios (clientes y usuarios son diferentes). Se suele empezar con los clientes. Que sea atractivo e innovador.
 
+## Semana 6
+- Seguir la información de la píldora teórica para crear el StoryBoard.
+

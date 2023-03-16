@@ -22,3 +22,8 @@ sidebar_position: 15
 
 ## Semana 5
 - Gestión de usuarios pilotos y cómo se usará el feedback recopilado.
+
+## Semana 6
+- Es importante analizar el feedback de los usuarios pilotos para dar prioridad a las tareas(pivotar), si es necesario se modifica la planificación de futuros sprints para incluir las modificaciones propuestas por los usuarios pilotos.
+- Poner datos cuantitativos (fechas,nº usuarios esperados, alcance geográfico de la app, etc).
+- Aumentar el número de usuarios piloto para recibir más feedback.

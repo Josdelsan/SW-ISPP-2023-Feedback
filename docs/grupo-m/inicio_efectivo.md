@@ -16,3 +16,7 @@ sidebar_position: 6
 
 ## Semana 4
 - Tener apoyo visual al hacer el Killer opening.
+
+## Semana 6
+- No repetir Killer Opener de semanas anteriores.
+- Intentar no caer en el tópico de "Necesitas esta funcionalidad? te presentamos nuestra app!" .

@@ -52,3 +52,6 @@ sidebar_position: 9
 - No poner negros sobre fondos oscuros.
 - No poner diagramas de casos de usos.
 - Poner etiquetas en los mockups para ver a que casos de uso hace referencias.
+
+## Semana 6
+- Tener cuidado con las metáforas usadas en la presentación, pueden ofender a algunas personas.
