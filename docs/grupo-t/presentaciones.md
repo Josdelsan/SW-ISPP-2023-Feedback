@@ -168,3 +168,18 @@ sidebar_position: 9
 - El número de la diapositiva debe verse más claro
 - Es preferible presentar ideas una a una en lugar de mostrar muchas ideas a la vez. Puede hacerse en distintas diapositivas, separadas por animaciones, o de la forma que se vea conveniente. El objetivo es destacar aquello que quiere presentarse
 - Hacer mejor uso de espacio y colores, reducir cantidad de texto, incluso si implica tener una mayor cantidad de diapositivas
+
+## Semana 7 (S2)
+
+#### Moderadores
+
+- El encargado de controlar el tiempo tiene que decir cúanto tiempo de feedback queda de forma periódica y sin necesidad de que le pregunten.
+
+#### Diseño de las diapositivas
+
+- Recordar que el tamaño de la letra debe ser visible.
+- Recordar que hay colores que pueden no ser distinguidos al presentar, por ejemplo el amarillo encima de un fondo blanco (es preferible usar algo más oscuro como un naranja, así no se pierde visibilidad).
+
+#### Contenido de la presentación
+
+- Es mejor no omitir las fotos tras presentar los roles junto a las personas.

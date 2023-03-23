@@ -26,3 +26,12 @@ sidebar_position: 16
 ## Semana 5 (S1)
 
 - No procede.
+
+## Semana 6 (Evaluación - S1)
+
+- No procede.
+
+## Semana 7 (S2)
+
+- Se puede utilizar zenhub u otras herramientas similares debido a los fallos que presenta governify. 
+- Recordar utilizar herramientas que faciliten la comunicación.

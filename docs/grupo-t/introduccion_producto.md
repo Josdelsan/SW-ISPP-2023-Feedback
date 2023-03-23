@@ -23,3 +23,12 @@ sidebar_position: 7
 ## Semana 5 (S1)
 
 - No procede.
+
+## Semana 6 (Evaluación - S1)
+
+- No procede.
+
+## Semana 7 (S2)
+
+- Recordar que el storyboard sea visible y original, así como añadir numeración en las viñetas para que el espectador no pierda el hilo de la historia si deja de mirar.
+- Recordar añadir datos que puedan interesar a los inversores en su storyboard.

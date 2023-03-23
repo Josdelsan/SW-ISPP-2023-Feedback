@@ -27,6 +27,11 @@ sidebar_position: 13
 
 - No procede.
 
-### Semana 6 (Evaluación - S1)
+## Semana 6 (Evaluación - S1)
 
 - Es importante detallar qué se espera hacer en la próxima iteración al final de una iteración
+
+## Semana 7 (S2)
+
+- Se pueden replantear las métricas de rendimiento añadiendo una acerca de que las personas muevan o pongan sus tareas en el estado correspondiente (por ejemplo, si en github se dispone de un tablero, pasar una tarea de "to do" a "in progress").
+- Recordar que las planificaciones del sprint deben ser consistentes.

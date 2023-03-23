@@ -37,3 +37,10 @@ sidebar_position: 14
 - Se valora positivamente que la calidad del código sea determinante en la evaluación del rendimiento de los miembros. Idealmente, debería extrapolarse esta idea a tareas no relacionadas con el código
 - Es importante regular la cantidad de horas invertidas. Invertir más horas de las esperadas es tan malo como no llegar a las horas mínimas
 - Deben explicitarse los avances o atrasos de cada semana en la medida de lo posible
+
+## Semana 7 (S2)
+
+- Recordar añadir porcentajes de avance.
+- Buscar estándares de calidad existentes de UX (User eXperience)
+- Recordar mostrar bien la proporción en las puntuaciones de la retrospectiva, si procede.
+- Recordar que el porcentaje de progreso también es importante, no porque una tarea no esté completada se debe dejar de tener en cuenta para medir el avance.

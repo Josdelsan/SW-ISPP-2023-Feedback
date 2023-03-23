@@ -46,3 +46,9 @@ sidebar_position: 10
 - Si se expone con ruido de fondo (por ejemplo, aire acondicionado encendido), hay que tenerlo en cuenta y hablar más alto
 - Si se puede, se valora mucho que los presentadores interactúen entre sí de forma que amenicen la presentación (como buen ejemplo, los presentadores de FindMyFun)
 - En la demo, los datos incluidos deben ser realistas. Es decir, la información debe ser coherente, incluyendo las imágenes
+
+## Semana 7 (S2)
+
+- Si no se sabe bien qué decir, se puede parar unos segundos para beber agua y así pensar.
+- Intentar que los presentadores no se muestren nerviosos.
+- Se debe hablar lo suficientemente alto como para que la presentación sea perceptible en todo momento.

@@ -19,3 +19,11 @@ sidebar_position: 5
 ## Semana 5 (S1)
 
 - Eliminar las *daily meetings* implica saber diariamente el estado de las tareas y si a alguien se le ha complicado llevar a cabo alguna de ellas. Si, por alguna razón, no se quieren realizar reuniones diarias se puede obligar a dejar por escrito en una fecha concreta, diariamente, las tareas que han hecho, los avances, ...
+
+## Semana 6 (Evaluación - S1)
+
+- No procede.
+
+## Semana 7 (S2)
+
+- Si se explica una fórmula para medir el rendimiento individual, se debe añadir qué rendimiento tiene cada persona aplicando la fórmula aunque no se haya terminado el Sprint, pues puede servir a modo de "llamada".

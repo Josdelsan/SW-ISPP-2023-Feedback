@@ -38,3 +38,11 @@ sidebar_position: 11
 - Intentar definir un nombre para cada subgrupo, evitando así nombres genéricos como Subgrupo 1, 2, 3, ...
 - Si se habla de un rol "Evaluador", que se encarga de cerciorarse de que cada persona del grupo de trabajo ha cumplido con los plazos y las tares, debe definirse quién será el encargado de evaluar a la persona que tenga ese rol.
 - Debe incluirse el rendimiento individual, no hace falta etiquetarlo por persona, puede mostrarse de forma anónima.
+
+## Semana 6 (Evaluación - S1)
+
+- No procede.
+
+## Semana 7 (S2)
+
+- No procede.

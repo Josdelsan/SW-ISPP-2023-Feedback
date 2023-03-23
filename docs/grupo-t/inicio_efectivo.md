@@ -30,3 +30,13 @@ sidebar_position: 6
 - El inicio efectivo debe estar relacionado con el proyecto.
 - Está bien relacionar el inicio efectivo con otros proyectos de la asignatura, pueden dar luegar a planes conjuntos en el futuro.
 - Para los proyectos que colaboran con ONG, puede ser buena idea hacer una llamada a la acción, tocando la fibra sensible, haciendo ver todos tenemos que hacer algo, como las personas que colaboran sin ánimo de lucro con estas organizaciones.
+
+## Semana 6 (Evaluación - S1)
+
+- No procede.
+
+## Semana 7 (S2)
+
+- Se debe añadir un inicio efectivo siempre, no solo el día de las evaluaciones.
+- No utilizar la fórmula de "conozco una aplicación que te puede venir bien", se vuelve muy repetitiva a estas alturas de la asignatura.
+- Moverse por la clase atre la atención, sin embargo hay que tener cuidado con darle la espalda al público, pues se puede perder entendimiento.

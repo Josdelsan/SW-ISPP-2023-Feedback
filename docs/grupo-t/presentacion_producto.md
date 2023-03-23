@@ -33,8 +33,16 @@ sidebar_position: 12
 - Existe la posibilidad de que a una persona con mal estado de ánimo no lo puedas convencer de que escriba un texto. Ante eso, puede ser una buena idea tener textos predefinidos.
 - Puede ser buena idea indicar en el vídeo de la demo, a través de un texto o icono, a qué caso de uso se está haciendo referencia.
 
-### Semana 6 (Evaluación - S1)
+## Semana 6 (Evaluación - S1)
 
 - Al mostrar la demo, se debe destacar más lo que se quiere mostrar, aprovechar bien el espacio
 - La demo debe ser suficientemente lenta como para poderse explicar y comprender bien
 - La historia de la story board debe ser mínimamente compleja para poder comprender el problema, su origen, la solución y por qué es buena solución
+
+## Semana 7 (S2)
+
+- Es más original contar una historia junto con la demo que simplemente comentar lo que se ve en el vídeo y es recomendable que se enlace esta con el storyboard.
+- Recordar que se pueda visualizar bien la demo y no añadir títulos innecesarios en la diapositiva.
+- Recordar añadir datos lo más realistas posibles a la demo.
+- No emplear frases como "pasa esto" (pasa esto = salta esta parte) o "esta parte es aburrida" ya que queda poco profesional.
+- Recordar que el texto o iconos adicionales que aparezcan en la demo no impidan la correcta visualización de esta.

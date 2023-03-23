@@ -34,3 +34,17 @@ sidebar_position: 2
 - Hay que hacer una previsión optimista, una realista y una pesimista de recuperación de la inversión
 - No debe incluirse IRPF ni similares en el análisis de costes
 - Hay que tener en cuenta el coste de mantenimiento del software al realizar el análisis de costes
+
+## Semana 6 (Evaluación - S1)
+
+- No procede.
+
+## Semana 7 (S2)
+
+- Añadir información sobre la estimación de todos los números que aparezcan.
+- Revisar que los datos de los ejes de las gráficas sean visibles para el público (especialmente para los que se sientan al fondo).
+- No se deben añadir céntimos en las presentaciones, hay que redondear a números enteros de euros.
+- Recordar añadir el porcentaje de ingresos que aporta cada cosa, así como el porcentaje que aporta la aseguradora en caso de que corresponda.
+- Recordar describir los casos optimista y pesimista con las frases correctas en lugar de utilizar "los optimistas" o "los pesimistas".
+- Si se añaden líneas con respecto a cuándo se recuperará la inversión, estas deben ser visibles.
+- Añadir información sobre de dónde sale el número de usuarios que utilizarán la aplicación, por ejemplo, teniendo en cuenta el número de usuarios que tienen los competidores más directos.
