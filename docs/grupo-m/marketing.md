@@ -24,3 +24,5 @@ sidebar_position: 8
 ## Semana 6
 - Seguir la información de la píldora teórica para crear el StoryBoard.
 
+## Semana 7
+- No focalizarse tanto en el marketing como tal mas que en lo pedido en estos momentos, ya que se desbian recursos necesarios en otras areas en esta etapa.

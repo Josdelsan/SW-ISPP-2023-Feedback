@@ -20,3 +20,7 @@ sidebar_position: 6
 ## Semana 6
 - No repetir Killer Opener de semanas anteriores.
 - Intentar no caer en el tópico de "Necesitas esta funcionalidad? te presentamos nuestra app!" .
+
+## Semana 7
+- Es interesante usar noticias reales en segun que casos para nuestro killer opener.
+- No usar el Storyboard como inicio efectivo.

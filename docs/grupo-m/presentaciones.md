@@ -55,3 +55,6 @@ sidebar_position: 9
 
 ## Semana 6
 - Tener cuidado con las metáforas usadas en la presentación, pueden ofender a algunas personas.
+
+## Semana 7
+- Al presentarse en el inicio de la presentación es suficiente, no hace falta repetirlo mas durante esta.

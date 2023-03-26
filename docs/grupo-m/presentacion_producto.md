@@ -19,3 +19,9 @@ sidebar_position: 12
 - Seguir una "historia", es decir, seguir los pasos que haría un usuario que use la aplicación.
 - El contenido de la videodemo debe ser legible.
 - Usar datos realistas a la hora de hacer registros o subir datos a la aplicación para que aparente profesionalidad.
+
+## Semana 7
+- Tener cuidado con la demostración y seguir un hilo para que se entienda que tipo de usuario esta realizando estas acciones.
+- No mostrar datos falsos en la aplicación, se espera que en las demostraciones los datos esten ya subidos aunque sean de muestra.
+- Al realizar la demostración, si el audio es de baja calidad es recomendable usar filtros para que no haya ruidos o molestias al escucharlo.
+

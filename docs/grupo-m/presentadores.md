@@ -36,3 +36,6 @@ sidebar_position: 10
 - Durante la presentación mostrar una actitud acorde con lo que se está explicando en la presentación (seriedad en los problemas, por ejemplo).
 - Más confianza al explicar, no repetir varias veces que "han intentado lo que han podido".
 - Evitar cambiar muchas veces de presentador, mejor mitad y mitad.
+
+## Semana 7
+- Intentar tener una forma de habalr y ambiente mas profesional y no de estar entre amigos.

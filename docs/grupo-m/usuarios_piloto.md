@@ -27,3 +27,6 @@ sidebar_position: 15
 - Es importante analizar el feedback de los usuarios pilotos para dar prioridad a las tareas(pivotar), si es necesario se modifica la planificación de futuros sprints para incluir las modificaciones propuestas por los usuarios pilotos.
 - Poner datos cuantitativos (fechas,nº usuarios esperados, alcance geográfico de la app, etc).
 - Aumentar el número de usuarios piloto para recibir más feedback.
+
+## Semana 7
+- Los usuarios piloto no deben usarse como analisis de calidad del producto, si no para obtener feeedback de nuestra aplicación.

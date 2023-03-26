@@ -28,3 +28,10 @@ sidebar_position: 2
 
 ## Semana 5
 - Resumen de análisis de costes. No solo poner estimaciones, poner también análisis de rentabilidad, como evoluciona el beneficio (estimaciones optimistas, realistas y pesimistas)
+
+## Semana 7
+- A la hora de analizar los costes, para calcular nuestras estimaciones, tenemos que tener claro cuantos usuarios pagarían realmente por la aplicación, ya que en caso de no hacerlo, podria suponer un riesgo grave para el producto.
+- Se recomienda mostrar los costes con tablas ya que con estas se pueden comparar de forma mas sencilla.
+- Al realizar y mostrar las estimaciones, hay que demostrar tambien como se han calculado estas, ademas de los criterios y que datos se toman para estas.
+- Explicar desde cuando y por que entran los beneficios de la aplicación.
+- Al mostrar tablas con costes, es recomendabel mostrar donde se cortan esta ya que es el punto que mas cercano a la realidad estara.
