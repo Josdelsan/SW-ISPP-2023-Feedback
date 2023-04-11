@@ -58,3 +58,9 @@ sidebar_position: 9
 
 ## Semana 7
 - Al presentarse en el inicio de la presentación es suficiente, no hace falta repetirlo mas durante esta.
+
+## Semana 8 
+- No mezclar idiomas en la presentación
+- Poner datos numericos y la información más importante que queramos que capten los profesores
+- Mantener un orden lógico, si estamos hablando del equipo, intentar hablar todo lo relacionado al equipo y después continuar con otro apartado, no ir de un tema al otro y volver.
+- Mantener el ritmo en la presentación, intentar mantener un ritmo adecuado para que los profesores no se queden atrás cuando toman notas

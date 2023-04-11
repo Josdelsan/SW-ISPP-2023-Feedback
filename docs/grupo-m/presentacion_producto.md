@@ -25,3 +25,10 @@ sidebar_position: 12
 - No mostrar datos falsos en la aplicación, se espera que en las demostraciones los datos esten ya subidos aunque sean de muestra.
 - Al realizar la demostración, si el audio es de baja calidad es recomendable usar filtros para que no haya ruidos o molestias al escucharlo.
 
+## Semana 8
+- Mantener la demostración ligera, no centrarnos en detalles minúsculos y presentar lo que se nos ha pedido para esa semana y las cosas nuevas que tengamos.
+- Tener cuidado con el tamaño de la letra ya que es posible que en la parte trasera no se aprecie lo que se muestra en la demo.
+- Una forma de explicar los contenidos es seguir una historia con las funcionalidades que tenemos, como si fueramos usuario, administrador o cualquiera de los roles de tu aplicación.
+- La demo es un video para vender nuestro producto, debe ser dinámico
+- Si vamos a usar audio, comprobarlo antes de clase para ver que se escucha y tiene un volumen adecuado.
+- Buscar story boards que sean de nuestro producto, no ir a los anuncios "fáciles" o "simples" que pueden ser usados en cualquier contexto

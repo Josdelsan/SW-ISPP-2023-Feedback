@@ -38,4 +38,8 @@ sidebar_position: 10
 - Evitar cambiar muchas veces de presentador, mejor mitad y mitad.
 
 ## Semana 7
-- Intentar tener una forma de habalr y ambiente mas profesional y no de estar entre amigos.
+- Intentar tener una forma de hablar y ambiente mas profesional y no de estar entre amigos.
+
+## Semana 8
+- Mantener la compostura de presentador y tener seguridad (no decir "no sé si os habrá gustado...")
+- Tener un buen ritmo, y hablar con tranquilidad y un tono adecuado

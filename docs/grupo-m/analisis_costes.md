@@ -35,3 +35,12 @@ sidebar_position: 2
 - Al realizar y mostrar las estimaciones, hay que demostrar tambien como se han calculado estas, ademas de los criterios y que datos se toman para estas.
 - Explicar desde cuando y por que entran los beneficios de la aplicación.
 - Al mostrar tablas con costes, es recomendabel mostrar donde se cortan esta ya que es el punto que mas cercano a la realidad estara.
+
+## Semana 8 
+- Hay que hablar con propieda. A la hora de hablar de trimestres, se deben explicar cuando comienzan esos trimestres (por ejemplo: tras el desarrollo, cuando acaba la asignatura, el 1 de Junio)
+- A la hora de hacer el análisis de rentabilidad, hay que explicar ¿de dónde hemos generado estos datos? ¿Qué tipos de crecimientos hay registrados?
+- Al explicar el análisis de coste, también hay que explicar de dónde vienen las variaciones del presupuesto y detallarlas. Es decir ¿se han producido por desvios en las funcionalidades, en el mantenimiento?...
+- Hay que explicar cómo se hace el cálculo de las estimaciones (pesimista, optimista y esperada)
+- Llegados a la semana 8, lo ideal sería juntar la explicación de los costes en una misma transparencia y ponerlos quizás en paralelo para poder observar la evolución
+- Deberían poner una explicación de cuantas personas van a necesitar para tener ganancias o cómo van a cubrir esas ganancias. Si tuvieramos inversores, ¿qué recibirán a cambio?
+- Marcar bien los cortes en los que se empezaríamos a tener ganancias según las 3 estimaciones

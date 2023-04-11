@@ -25,4 +25,8 @@ sidebar_position: 8
 - Seguir la información de la píldora teórica para crear el StoryBoard.
 
 ## Semana 7
-- No focalizarse tanto en el marketing como tal mas que en lo pedido en estos momentos, ya que se desbian recursos necesarios en otras areas en esta etapa.
+- No focalizarse tanto en el marketing como tal mas que en lo pedido en estos momentos, ya que se desvían recursos necesarios en otras areas en esta etapa.
+
+## Semana 8
+- A la hora de crear un storyboard para presentar a los inversores, deberían mostrarse datos impactantes como el beneficio, el coste de la aplicación, en cuanto tiempo van a recuperar la inversión...
+- 

@@ -24,3 +24,8 @@ sidebar_position: 6
 ## Semana 7
 - Es interesante usar noticias reales en segun que casos para nuestro killer opener.
 - No usar el Storyboard como inicio efectivo.
+
+## Semana 8
+- Hay que buscar formas de enlazar el final con el inicio efectivo.
+- Empezar con buena energía la presentación, es nuestra primera impresión del producto
+- Variar el inicio efectivo, no usar la misma temática para todos las presentaciones, se vuelve monótono y pierde toda la gracia de ser efectivo.

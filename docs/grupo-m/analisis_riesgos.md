@@ -27,3 +27,8 @@ sidebar_position: 3
 ## Semama 6
 - Abordar lº os problemas de manera sistemática, hay que cuantificar y definirlo de manera exacta. Acciones concretas y efectividad.
 
+## Semana 8
+- En esta semana, se ha valorado positivamente cómo han evolucionado los riesgos, es decir, cómo han evolucionado los riesgos según las medidas que se decidieron. 
+- Si proponemos un cambio para solucionar problemas, debe ser una decisión que se valore y luego sea aceptada por todos los miembros.
+- Es una buena idea innovar la forma de hablar sobre los problemas (por ejemplo con stickers)
+- En el seguimiento de los problemas, se debe poder cuantificar la evolución, exponer fechas de control, etc...
