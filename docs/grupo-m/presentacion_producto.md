@@ -32,3 +32,12 @@ sidebar_position: 12
 - La demo es un video para vender nuestro producto, debe ser dinámico
 - Si vamos a usar audio, comprobarlo antes de clase para ver que se escucha y tiene un volumen adecuado.
 - Buscar story boards que sean de nuestro producto, no ir a los anuncios "fáciles" o "simples" que pueden ser usados en cualquier contexto
+
+## Semana 9
+- Realizar un storyboard menos general.
+- Sería buena idea enlazar la demo con el anuncio y continuar con esa historia.
+- Es importante usar datos reales tanto en demo como en el anuncio, ya que le da seriedad.
+- Si en el anuncio se muestran todos los aspectos del StoryBoard, este se puede quitar de la presentación.
+- Agilizar el anuncio, centarse en las conversaciones o partes importantes.
+- Puede que los subtitulos distraigan al espectador.
+- Si los altavoces no van debemos arreglarlos o traer unos que funcionen.

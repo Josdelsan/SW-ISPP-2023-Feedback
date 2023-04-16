@@ -29,3 +29,8 @@ sidebar_position: 6
 - Hay que buscar formas de enlazar el final con el inicio efectivo.
 - Empezar con buena energía la presentación, es nuestra primera impresión del producto
 - Variar el inicio efectivo, no usar la misma temática para todos las presentaciones, se vuelve monótono y pierde toda la gracia de ser efectivo.
+
+## Semana 9
+- Reservar el mejor Killer Opener para la presentación final.
+- Cuidado con el abuso de humor.
+- El uso de noticias reales es bastante bueno ya que impacta al espectador.

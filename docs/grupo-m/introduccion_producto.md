@@ -14,3 +14,6 @@ sidebar_position: 7
 - Definir bien cómo se monetizará la aplicación.
 
 ## Semana 4
+
+## Semana 9
+- No procede

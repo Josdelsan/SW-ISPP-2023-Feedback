@@ -26,3 +26,6 @@ sidebar_position: 15
 - Explicar como hemos calculado el rendimiento del equipo y por ejemplo ordenarlo de mayor a menor o mostrarlo en un diagrama de barras
 - Poner la evolución de los miembros por semana, para ver la evolución que han tenido a lo largo del tiempo
 - Los puntos de historia no sirven para valorar rendimiento, deben haber otras medidas
+
+## Semana 9
+- No se debe penalizar por bajo rendimiento en semana de vacaciones.

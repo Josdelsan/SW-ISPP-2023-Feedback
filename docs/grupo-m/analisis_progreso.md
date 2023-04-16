@@ -17,3 +17,6 @@ sidebar_position: 5
 ## Semana 8 
 - Si vamos a poner gráficas como la de Zenhub o un burndown hay que explicarlo y poner una leyenda sobre lo que significa cada cosa
 - Es una buena idea para mostrar el progreso o la planificación el diagrama de Gant
+
+## Semana 9
+- Podría ser buena idea hacer comparaciones de las gráficas de burndown con los sprints anteriores.

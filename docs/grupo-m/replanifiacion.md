@@ -16,3 +16,6 @@ sidebar_position: 13
 
 ## Semana 6
 - Las incidencias y comentarios de los usuarios pilotos son de alta prioridad, hay que estudiarlos cuantos antes y replanificar si hiciese falta
+
+## Semana 9
+- No procede.

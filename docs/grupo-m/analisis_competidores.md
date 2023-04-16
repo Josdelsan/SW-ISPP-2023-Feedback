@@ -28,3 +28,6 @@ sidebar_position: 1
 
 ## Semana 8
 - Está bien guardar una parte de la presentación para explicar lo que nos diferencia de nuestros competidores, pero llegados a este punto( final del sprint 2, principio del sprint 3) hay que explicarlo de la manera más resumida posible ya que nos tenemos que centrar en otros aspectos. 
+
+## Semana 9
+- No procede.

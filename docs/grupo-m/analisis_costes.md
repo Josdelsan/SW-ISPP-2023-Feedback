@@ -44,3 +44,6 @@ sidebar_position: 2
 - Llegados a la semana 8, lo ideal sería juntar la explicación de los costes en una misma transparencia y ponerlos quizás en paralelo para poder observar la evolución
 - Deberían poner una explicación de cuantas personas van a necesitar para tener ganancias o cómo van a cubrir esas ganancias. Si tuvieramos inversores, ¿qué recibirán a cambio?
 - Marcar bien los cortes en los que se empezaríamos a tener ganancias según las 3 estimaciones
+
+## Semana 9
+- Tener en cuenta los gastos de los roles de GDPR y personal de marketing si son contratados exteriormente.

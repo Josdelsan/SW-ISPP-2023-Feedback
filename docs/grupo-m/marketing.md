@@ -29,4 +29,6 @@ sidebar_position: 8
 
 ## Semana 8
 - A la hora de crear un storyboard para presentar a los inversores, deberían mostrarse datos impactantes como el beneficio, el coste de la aplicación, en cuanto tiempo van a recuperar la inversión...
-- 
+
+## Semana 9
+- Empezar a planificar tareas de marketing para ganar tracción en el mercado, por ejemplo, el uso de redes sociales.

@@ -19,3 +19,6 @@ sidebar_position: 11
 
 ## Semana 5
 - Poner roles de cada miembro.
+
+## Semana 9
+- Añadir los nuevos roles de GDPR y encargado de marketing o redes sociales.

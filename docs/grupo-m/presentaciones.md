@@ -64,3 +64,9 @@ sidebar_position: 9
 - Poner datos numericos y la información más importante que queramos que capten los profesores
 - Mantener un orden lógico, si estamos hablando del equipo, intentar hablar todo lo relacionado al equipo y después continuar con otro apartado, no ir de un tema al otro y volver.
 - Mantener el ritmo en la presentación, intentar mantener un ritmo adecuado para que los profesores no se queden atrás cuando toman notas
+
+## Semana 9
+- Nuevamente se comenta que se debe tener cuidado con los colores para no tener falta de legibilidad.
+- Cuidado con las gráficas que tengan demasiada información, puede que no aporten tanto y confunfa al espectador.
+- Mostrar en grande las gráficas para que se vean bien los valores.
+- Se debe comentar el número de usuarios piloto reales que estan haciendo uso, frecuentemente, de la app.

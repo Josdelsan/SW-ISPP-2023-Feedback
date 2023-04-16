@@ -40,3 +40,9 @@ sidebar_position: 15
 - Poner información sobre cuando se envían las encuestas y cuando se recoger y analizan.
 - Si los usuarios detectan muchos fallos, hay que tener cuidado con el control que se está haciendo del testing.
 - Si vamos a destacar unos comentarios recibidos por los usuarios pilotos, al menos antes hablar sobre los resultados totales(número de respuestas obtenidas, tipos de feedback recibido y cualquier medida que consideremos importante mencionar)
+
+## Semana 9
+- No cambiar el link que se les pasa a los usuarios piloto, para que puedan seguir usando la app.
+- Priorizar importancia y calidad del feedback antes que la rapidez del feedback.
+- Debemos monitorizar el número de usuarios piloto que usan la aplicación frecuentemente.
+- Debemos incentivar (exigir) a los usuarios piloto que sigan usando la app, incluso despues de responder a las encuestas del feedback.

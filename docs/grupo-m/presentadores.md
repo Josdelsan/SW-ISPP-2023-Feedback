@@ -43,3 +43,8 @@ sidebar_position: 10
 ## Semana 8
 - Mantener la compostura de presentador y tener seguridad (no decir "no sé si os habrá gustado...")
 - Tener un buen ritmo, y hablar con tranquilidad y un tono adecuado
+
+## Semana 9
+- Cuidado con el abuso de coletillas.
+- Mantener un animo equilibrado, ni demasiado bajo ni demasiado alto.
+- No hacer referencia a presentaciones anteriores.
