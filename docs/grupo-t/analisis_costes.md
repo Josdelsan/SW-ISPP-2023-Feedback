@@ -48,3 +48,8 @@ sidebar_position: 2
 - Recordar describir los casos optimista y pesimista con las frases correctas en lugar de utilizar "los optimistas" o "los pesimistas".
 - Si se añaden líneas con respecto a cuándo se recuperará la inversión, estas deben ser visibles.
 - Añadir información sobre de dónde sale el número de usuarios que utilizarán la aplicación, por ejemplo, teniendo en cuenta el número de usuarios que tienen los competidores más directos.
+
+## Semana 9 (S3) 
+
+- Incluir en los gastos el rol de GDPR Officer.
+- La tabla de costes ha de ser homogénea, es decir, que las diferentes cifras se sumen en la misma dimensión.

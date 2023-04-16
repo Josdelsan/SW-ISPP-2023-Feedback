@@ -42,3 +42,7 @@ sidebar_position: 15
 
 - Recordar que los plazos de prueba de los usuarios piloto deben ser lo suficientemente amplios como para que puedan probar la aplicación sin problema.
 - Es una buena práctica el tener en cuenta el feedback de los usuarios piloto para ver qué se ha mejorado
+
+## Semana 9 (S3) 
+
+- No procede.

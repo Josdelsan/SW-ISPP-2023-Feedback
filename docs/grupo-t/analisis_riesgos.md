@@ -35,3 +35,8 @@ sidebar_position: 3
 - Si se añade algún número respecto a qué tan buena es una solución para un problema, se debe añadir también el por qué de dicho número.
 - Se debe revisar que las decisiones (soluciones) tomadas con respecto a un problema puedan ser evaluadas de forma objetiva y no que parezca que se han tomado de forma arbitraria.
 - Recordar que las soluciones deben tener algún tipo de métrica para saber cómo de buena es dicha solución.
+
+
+## Semana 9 (S3) 
+
+- No procede.

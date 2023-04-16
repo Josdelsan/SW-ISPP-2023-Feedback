@@ -32,3 +32,7 @@ sidebar_position: 7
 
 - Recordar que el storyboard sea visible y original, así como añadir numeración en las viñetas para que el espectador no pierda el hilo de la historia si deja de mirar.
 - Recordar añadir datos que puedan interesar a los inversores en su storyboard.
+
+## Semana 9 (S3) 
+
+- Desarrollar un mejor storyboard de inversores, teniendo en mente los conceptos.

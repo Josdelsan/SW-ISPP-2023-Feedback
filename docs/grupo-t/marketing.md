@@ -31,3 +31,7 @@ sidebar_position: 8
 ## Semana 7 (S2)
 
 - No procede.
+
+## Semana 9 (S3) 
+
+- Analizar qué estrategia de marketing de las que están usando sirve para captar la atracción del mercado.

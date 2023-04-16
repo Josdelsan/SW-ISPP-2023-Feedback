@@ -183,3 +183,15 @@ sidebar_position: 9
 #### Contenido de la presentación
 
 - Es mejor no omitir las fotos tras presentar los roles junto a las personas.
+
+
+## Semana 9 (S3) 
+
+### Estética de las diapostivas
+
+- Algunas diapositivas siguen utlizando una gama de colores que no son muy visibles, se recurre a fondos negros que dificultan la lectura.
+- No saturar diapositivas con exceso de elementos.
+
+### Contenido de la presentación
+
+- Moderar el uso de memes, que no sea un recurso excesivo.

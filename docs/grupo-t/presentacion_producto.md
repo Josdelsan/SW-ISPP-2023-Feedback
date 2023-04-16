@@ -46,3 +46,9 @@ sidebar_position: 12
 - Recordar añadir datos lo más realistas posibles a la demo.
 - No emplear frases como "pasa esto" (pasa esto = salta esta parte) o "esta parte es aburrida" ya que queda poco profesional.
 - Recordar que el texto o iconos adicionales que aparezcan en la demo no impidan la correcta visualización de esta.
+
+## Semana 9 (S3) 
+
+- La demo debe ser como una historia de la cual pueda seguirse el hilo.
+- La demo debe agilizar los formularios incluidos, para no abarcar tiempo innecesariamente.
+- La demo debe incluir funcionalidad ya implementada y la novedosa, de forma que sea autocontenida.

@@ -35,3 +35,8 @@ sidebar_position: 13
 
 - Se pueden replantear las métricas de rendimiento añadiendo una acerca de que las personas muevan o pongan sus tareas en el estado correspondiente (por ejemplo, si en github se dispone de un tablero, pasar una tarea de "to do" a "in progress").
 - Recordar que las planificaciones del sprint deben ser consistentes.
+
+## Semana 9 (S3) 
+
+- La replanificación no debe hacerse solo a nivel de alcance, sino a nivel de costes y tiempo también.
+- En la replanificación incluir una comparativa de qué estaba planificado anteriormente y cúal es la variación de esa planificación.

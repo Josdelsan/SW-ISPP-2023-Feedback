@@ -35,3 +35,7 @@ sidebar_position: 16
 
 - Se puede utilizar zenhub u otras herramientas similares debido a los fallos que presenta governify. 
 - Recordar utilizar herramientas que faciliten la comunicación.
+
+## Semana 9 (S3) 
+
+- No procede.

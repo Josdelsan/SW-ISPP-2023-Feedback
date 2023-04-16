@@ -40,3 +40,8 @@ sidebar_position: 6
 - Se debe añadir un inicio efectivo siempre, no solo el día de las evaluaciones.
 - No utilizar la fórmula de "conozco una aplicación que te puede venir bien", se vuelve muy repetitiva a estas alturas de la asignatura.
 - Moverse por la clase atre la atención, sin embargo hay que tener cuidado con darle la espalda al público, pues se puede perder entendimiento.
+
+## Semana 9 (S3) 
+
+- Acortar el inicio efectivo ya que con los storyboards el inicio se extiende demasiado.
+- Hacer buen uso del humor pero que no sea el único recurso o de una forma constante

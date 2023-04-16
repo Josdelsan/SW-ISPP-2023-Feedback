@@ -44,3 +44,9 @@ sidebar_position: 14
 - Buscar estándares de calidad existentes de UX (User eXperience)
 - Recordar mostrar bien la proporción en las puntuaciones de la retrospectiva, si procede.
 - Recordar que el porcentaje de progreso también es importante, no porque una tarea no esté completada se debe dejar de tener en cuenta para medir el avance.
+
+## Semana 9 (S3) 
+
+- La cobertura no es una métrica muy fiable, ya que tiene en cuenta todas las líneas de código, no solo las realmente efectivas. Ejemplo: comentarios.
+
+

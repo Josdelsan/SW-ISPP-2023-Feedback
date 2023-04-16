@@ -52,3 +52,7 @@ sidebar_position: 10
 - Si no se sabe bien qué decir, se puede parar unos segundos para beber agua y así pensar.
 - Intentar que los presentadores no se muestren nerviosos.
 - Se debe hablar lo suficientemente alto como para que la presentación sea perceptible en todo momento.
+
+## Semana 9 (S3) 
+
+- Cuidar el lenguaje no verbal.

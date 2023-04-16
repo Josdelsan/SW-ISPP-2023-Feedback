@@ -27,3 +27,7 @@ sidebar_position: 5
 ## Semana 7 (S2)
 
 - Si se explica una fórmula para medir el rendimiento individual, se debe añadir qué rendimiento tiene cada persona aplicando la fórmula aunque no se haya terminado el Sprint, pues puede servir a modo de "llamada".
+
+## Semana 9 (S3) 
+
+- Es preferible utilizar gráficas a diagramas de barras para medir la evolución del rendimiento del equipo.
