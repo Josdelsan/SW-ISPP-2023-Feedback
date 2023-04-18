@@ -195,3 +195,5 @@ sidebar_position: 9
 ### Contenido de la presentación
 
 - Moderar el uso de memes, que no sea un recurso excesivo.
+- Usar más contenidos en menos diapositivas es favorable, siempre y cuando se haga bien (es decir, sin saturar la diapositiva con exceso de elementos).
+- Es importante tener en cuenta al público al que nos enfrentamos. Hacer uso de comparativas en las que nuestro público no se sienta identificado puede reducir el impacto de la presentación, y hacer uso de temas delicados puede volverse en contra, como puede ser el uso de temáticas religiosas.
