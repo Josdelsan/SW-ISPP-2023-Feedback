@@ -35,3 +35,8 @@ sidebar_position: 8
 ## Semana 9 (S3) 
 
 - Analizar qué estrategia de marketing de las que están usando sirve para captar la atracción del mercado.
+
+## Semana 10 (Evaluación - S3)
+
+- En los descuentos va al coste de adquisicion de clientes. Es uno de los puntos de equilibrio. Hay que verlo de forma empresarial.
+

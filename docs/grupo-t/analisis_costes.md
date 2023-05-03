@@ -53,3 +53,7 @@ sidebar_position: 2
 
 - Incluir en los gastos el rol de GDPR Officer.
 - La tabla de costes ha de ser homogénea, es decir, que las diferentes cifras se sumen en la misma dimensión.
+
+## Semana 10 (Evaluación - S3)
+
+- No procede.

@@ -52,3 +52,7 @@ sidebar_position: 12
 - La demo debe ser como una historia de la cual pueda seguirse el hilo.
 - La demo debe agilizar los formularios incluidos, para no abarcar tiempo innecesariamente.
 - La demo debe incluir funcionalidad ya implementada y la novedosa, de forma que sea autocontenida.
+
+## Semana 10 (Evaluación - S3)
+
+- Los anuncios deben hacer hincapié en los aspectos diferenciadores del producto.

@@ -40,3 +40,7 @@ sidebar_position: 13
 
 - La replanificación no debe hacerse solo a nivel de alcance, sino a nivel de costes y tiempo también.
 - En la replanificación incluir una comparativa de qué estaba planificado anteriormente y cúal es la variación de esa planificación.
+
+## Semana 10 (Evaluación - S3)
+
+- Es bueno prever cambios en el equipo cuando se van a realizar cambios importantes en el proyecto, explicando la lógica detrás de los cambios.

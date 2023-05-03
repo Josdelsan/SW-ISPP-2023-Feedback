@@ -56,3 +56,8 @@ sidebar_position: 10
 ## Semana 9 (S3) 
 
 - Cuidar el lenguaje no verbal.
+
+## Semana 10 (Evaluación - S3)
+
+- No procede
+

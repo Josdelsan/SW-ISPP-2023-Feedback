@@ -45,3 +45,7 @@ sidebar_position: 6
 
 - Acortar el inicio efectivo ya que con los storyboards el inicio se extiende demasiado.
 - Hacer buen uso del humor pero que no sea el único recurso o de una forma constante
+
+## Semana 10 (Evaluación - S3)
+
+- No procede.

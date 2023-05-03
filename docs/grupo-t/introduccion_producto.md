@@ -36,3 +36,7 @@ sidebar_position: 7
 ## Semana 9 (S3) 
 
 - Desarrollar un mejor storyboard de inversores, teniendo en mente los conceptos.
+
+## Semana 10 (Evaluación - S3)
+
+- En el storyboard de inversores es bueno representar historias de exito y presentar el producto de una forma sencilla, haciendo hincapié en la capacidad del equipo.

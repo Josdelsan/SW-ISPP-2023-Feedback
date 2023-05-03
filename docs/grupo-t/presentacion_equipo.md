@@ -50,3 +50,7 @@ sidebar_position: 11
 ## Semana 9 (S3) 
 
 - No procede.
+
+## Semana 10 (Evaluación - S3)
+
+- Hay que tener en cuenta el orden en el que se presenta la información del equipo porque puede afectar a la percepción que el público tiene sobre este. (Bueno, Bonito y Barato)

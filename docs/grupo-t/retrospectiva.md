@@ -49,4 +49,9 @@ sidebar_position: 14
 
 - La cobertura no es una métrica muy fiable, ya que tiene en cuenta todas las líneas de código, no solo las realmente efectivas. Ejemplo: comentarios.
 
+## Semana 10 (Evaluación - S3)
+
+- No procede
+
+
 

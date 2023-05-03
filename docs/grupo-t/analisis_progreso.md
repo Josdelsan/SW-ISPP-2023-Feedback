@@ -31,3 +31,7 @@ sidebar_position: 5
 ## Semana 9 (S3) 
 
 - Es preferible utilizar gráficas a diagramas de barras para medir la evolución del rendimiento del equipo.
+
+## Semana 10 (Evaluación - S3)
+
+- Si hay tareas críticas lo mejor es asignarselas a miembros capaces para evitar bloqueos en el desarrollo.
