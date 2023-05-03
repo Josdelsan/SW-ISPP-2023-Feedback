@@ -41,3 +41,6 @@ sidebar_position: 12
 - Agilizar el anuncio, centarse en las conversaciones o partes importantes.
 - Puede que los subtitulos distraigan al espectador.
 - Si los altavoces no van debemos arreglarlos o traer unos que funcionen.
+
+## Semana 10
+- El vídeo tiene que dejar claro el problema que se resuelve o lo que destaca de la aplicación.

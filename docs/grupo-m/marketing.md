@@ -32,3 +32,7 @@ sidebar_position: 8
 
 ## Semana 9
 - Empezar a planificar tareas de marketing para ganar tracción en el mercado, por ejemplo, el uso de redes sociales.
+
+## Semana 10
+- Los anuncios tienen que ser más originales, no el típico de "persona encuentra nuestra app y se lo pasa bien"
+- Hay que comentar los objetivos del marketing y mostrar si se han completado· 
