@@ -40,3 +40,12 @@ sidebar_position: 8
 
 - En los descuentos va al coste de adquisicion de clientes. Es uno de los puntos de equilibrio. Hay que verlo de forma empresarial.
 
+## Semana 11 (PPL)
+
+- Para pensar en grande, hay primero que pensar en pequeño, por ello es clave realizar una buena segmentación de mercado.
+- La segmentación de mercado consiste en crear un pseudopersonaje con un perfil que encaja dentro de la población. A este perfil se le asignan preocupaciones, etc. para ver cómo funcionaría este rol en la aplicación. Se hace para orientar el producto al objetivo adecuado.
+- No buscar que los clientes objetivos sean todo el mundo ya que el nicho de mercado queda muy diluido y para aplicaciones que requieren una comunidad, no favorece a su desarrollo.
+- Utilizar soporte estadístico para la segmentación de mercado es un buen punto de partida para encontrar el segmento objetivo. 
+- Los proyectos asociados a ONG, deben tener en cuenta también a las personas de a pie, dado que en muchas ocasiones las personas que dirigen a las ONG no suelen usar redes sociales.
+- Es necesario tener una planificación de las publicaciones que se van a realizar en redes sociales, junto al objetivo que se quiere conseguir.
+- Es buena idea fijar una serie de objetivos a conseguir en las analíticas de las redes sociales del producto.

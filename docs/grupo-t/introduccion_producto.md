@@ -40,3 +40,7 @@ sidebar_position: 7
 ## Semana 10 (Evaluación - S3)
 
 - En el storyboard de inversores es bueno representar historias de exito y presentar el producto de una forma sencilla, haciendo hincapié en la capacidad del equipo.
+
+## Semana 11 (PPL)
+
+- No procede

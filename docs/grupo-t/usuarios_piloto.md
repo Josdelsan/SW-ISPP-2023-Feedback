@@ -50,3 +50,7 @@ sidebar_position: 15
 ## Semana 10 (Evaluación - S3)
 
 - Es una buena práctica evitar que los usuarios piloto reciban versiones de la app totalmente funcionales o en caso contrario que no puedan hacer uso de las partes incompletas, de lo contrario puede dar mala impresión.
+
+## Semana 11 (PPL)
+
+- No procede

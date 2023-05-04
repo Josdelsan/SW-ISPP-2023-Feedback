@@ -54,3 +54,7 @@ sidebar_position: 11
 ## Semana 10 (Evaluación - S3)
 
 - Hay que tener en cuenta el orden en el que se presenta la información del equipo porque puede afectar a la percepción que el público tiene sobre este. (Bueno, Bonito y Barato)
+
+## Semana 11 (PPL)
+
+- En la etapa en la que nos encontramos, no debe darse tanta información técnica sobre el equipo. La presentación debe enfocarse a las capacidades del equipo y no a las capacidades individuales, por ejemplo, haciendo referencia al número total de miembros que lo componen.

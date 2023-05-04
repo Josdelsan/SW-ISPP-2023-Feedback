@@ -35,3 +35,7 @@ sidebar_position: 5
 ## Semana 10 (Evaluación - S3)
 
 - Si hay tareas críticas lo mejor es asignarselas a miembros capaces para evitar bloqueos en el desarrollo.
+
+## Semana 11 (PPL)
+
+- No procede

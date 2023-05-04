@@ -49,3 +49,8 @@ sidebar_position: 6
 ## Semana 10 (Evaluación - S3)
 
 - No procede.
+
+## Semana 11 (PPL)
+
+- El inicio efectivo debe realizarse antes de introducir el producto, para no perder expectación.
+- Está bien hacer inicios efectivos con otros grupos, puede favorecer a la originalidad.

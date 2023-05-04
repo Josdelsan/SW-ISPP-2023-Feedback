@@ -44,3 +44,7 @@ sidebar_position: 13
 ## Semana 10 (Evaluación - S3)
 
 - Es bueno prever cambios en el equipo cuando se van a realizar cambios importantes en el proyecto, explicando la lógica detrás de los cambios.
+
+## Semana 11 (PPL)
+
+- No procede

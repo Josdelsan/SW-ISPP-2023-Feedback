@@ -57,3 +57,9 @@ sidebar_position: 2
 ## Semana 10 (Evaluación - S3)
 
 - No procede.
+
+## Semana 11 (PPL)
+
+- Si se tiene pensado hacer una colaboración con un influences, dicho coste debe tenerse en cuenta en los costes de marketing.
+- En los costes de marketing deben tenerse en consideración las herramientas y las licencias utilizadas.
+- El incremento de usuarios de usuarios en el análisis de rentabilidad no debe ser demasiado optimista (hablar de un incremento mensual del 30%). 

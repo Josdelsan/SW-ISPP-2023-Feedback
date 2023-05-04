@@ -56,3 +56,21 @@ sidebar_position: 12
 ## Semana 10 (Evaluación - S3)
 
 - Los anuncios deben hacer hincapié en los aspectos diferenciadores del producto.
+
+## Semana 11 (PPL)
+
+- Es buena idea hilar la temática del inicio efectivo con la temática de que se traten en los anuncios y la demo.
+- Si la demo del producto es demasiado rápida, puede impedir ver lo que se quiere mostrar de una forma clara.
+- La demo necesita estar ligada a una historia, no solo se debe hablar de funcionalidad en ella.
+- No se debe usar en la demo del producto sonidos estridentes que hagan que los espectadores se desconcentren.
+- En la interfaz del producto debería tenerse en cuenta la segmentación por personalidad, edad, etc.
+- Utilizar valoraciones sobre 3 estrellas para valorar los servicios puede llegar a ser raro al no ser el estándar, podría definirse sobe 5 estrellas.
+- Es buena idea que la demo y los anuncios esten enlazados de alguna forma entre ellos, de manera que se muestre todo el contenido del producto entre ambos sin llegar a repetir las funcionalidades mostradas.
+- Los anuncios deben tener una velocidad adecuada, no deben ser ni muy lentos ni muy rápidos, de forma que se pueda apreciar de forma correcta el contenido del mismo.
+- Es necesario que los anuncios tengan el volumen lo suficientemente alto y se escuchen de forma clara para que pueda ser escuchado por todos, hasta los que se encuentran al final de clase.
+- En los anuncios en los que se hace uso de la aplicación desarrollada en el proyecto debe verse lo que está ocurriendo y debe quedar claro cómo la aplicación cumple con los objetivos para la que ha sido desarrollada.
+- En el anuncio de inversores se deben incluir los datos suficientes para incentivar a que se invierta en el producto.
+- En el anuncio de inversores las cifras (números, precios, ...) dadas deben ser creíbles y estar justificadas.
+- En el anuncio de inversores se debe dejar claro como se va a recuperar el dinero invertido según los planes de precio de la aplicación. 
+- En el anuncio de inversores debe quedar bien justificado el por qué se necesita el dinero.
+- Incluir en los anuncios gráficas con fondo negro pueden dificultar su visibilidad y entendimiento.

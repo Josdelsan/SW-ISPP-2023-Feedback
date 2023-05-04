@@ -201,3 +201,27 @@ sidebar_position: 9
 ## Semana 10 (Evaluación - S3)
 
 - Hay que cuidar la ortografía en las presentaciones.
+
+## Semana 11 (PPL)
+
+#### Contenido de la presentación
+
+- El anuncio de clientes debe presentarse antes de la demo.
+- La presentación debe seguir el orden dado por los profesores, en otro caso puede dificultar el seguimiento y la búsqueda de la información en la presentación.
+- Los costes relacionados con el marketing deben ser desglosados en la presentación asociada al marketing.
+
+#### Diseño de las diapositivas
+
+- En la tabla de competidores, se debe resaltar de alguna manera la columna asociada a nuestro proyecto para que destaque a simple vista.
+- Si las cifras representadas en los costes están redondeadas a miles de euros pueden simplificar con la notación "K". Por ejemplo, si el coste de personal aparece como 33.000€ se simplificaría a 33 K€.
+- En vez de poner los sueldos en el apartado de costes, se debería agrupar en una apartado global de costes de personal.
+- Unificar las unidades de tiempo en la tabla de costes, de forma que, por ejemplo, no haya en la misma tabla costes que sean mensuales y otros que sean anuales.
+- Si se pone una fecha en la presentación, se debe especificar a qué hace referencia.
+- Si se muestran datos en pantalla que han sido obtenidos de alguna plataforma en concreto, debe citarse a la fuente.
+- Para mostrar precios que no tienen decimales no incluirles ",00".
+
+#### Marketing
+
+- Está bien incluir banners publicitarios en la presentación para que los profesores puedan dar feedback.
+- A la hora de hablar sobre análiticas en redes sociales, es buena idea fijar una serie de objetivos a alcanzar para estas.
+- Es bueno mostrar analíticas de las distintas redes sociales escogidas y sus publicaciones para ver, entre otras características, el alcance que se está teniendo.

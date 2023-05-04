@@ -61,3 +61,11 @@ sidebar_position: 10
 
 - No procede
 
+## Semana 11 (PPL)
+
+- A la hora de hablar sobre algún tema hay que tener en cuenta cómo de avanzado está el proyecto. Se tiene que ser consciente de qué ha pasado, que está ocurriendo y qué va a suceder. No se pueden decir frases como "Los gastos van a ser ...", dado que la mayoría de gastos ya se han tenido.
+- En la etapa que nos encontramos no se debe hablar técnicamente al público.
+- Se debe tener en cuenta que el público es una audiencia que no nos conoce.
+- Si el presentador va a ir comentando la demo, este debe hacerlo acorde a lo que se ve en pantalla, sino puede ser muy difícil de seguir.
+- Se debe utilizar lenguaje inclusivo y preciso.
+- Se debe intentar dar más cohesión a las diapositivas, mejorando las transiciones entre temáticas.
