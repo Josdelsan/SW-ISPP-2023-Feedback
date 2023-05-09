@@ -51,7 +51,9 @@ sidebar_position: 14
 
 ## Semana 10 (Evaluación - S3)
 
-- No procede
+- Al hacer una retrospectiva de un Sprint, es recomendable comparar el éxito o fracaso del sprint actual respecto a otros sprints, comparando los problemas encontrados.
+- Al explicar la forma de puntuar a los compañeros del equipo, es recomendable evitar mostrar fórmulas complejas. En su lugar, es mejor mostrar ejemplos y justificar la nota en base a criterios de la fórmula.
+- Al mostrar criterios que determinan la nota de los distintos miembros del equipo, se debería destacar de alguna forma estos criterios (letra en negrita por ejemplo).
 
 ## Semana 11 (PPL)
 

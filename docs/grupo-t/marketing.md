@@ -39,6 +39,7 @@ sidebar_position: 8
 ## Semana 10 (Evaluación - S3)
 
 - En los descuentos va al coste de adquisicion de clientes. Es uno de los puntos de equilibrio. Hay que verlo de forma empresarial.
+- Es recomendable incluir estrategias de marketing más originales para el lanzamiento de la aplicación. Por ejemplo: uso de pegatinas, tarjetas, etc.
 
 ## Semana 11 (PPL)
 
@@ -49,3 +50,6 @@ sidebar_position: 8
 - Los proyectos asociados a ONG, deben tener en cuenta también a las personas de a pie, dado que en muchas ocasiones las personas que dirigen a las ONG no suelen usar redes sociales.
 - Es necesario tener una planificación de las publicaciones que se van a realizar en redes sociales, junto al objetivo que se quiere conseguir.
 - Es buena idea fijar una serie de objetivos a conseguir en las analíticas de las redes sociales del producto.
+- Es importante justificar con datos la decisión de acercarse más a un tipo de público u otro.
+- Al intentar conocer mejor a la audiencia de la aplicación, es recomendable hacer entrevistas, pero se debe tener claro a quién se le hace estas entrevistas y qué se busca sacar de ellas.
+- Al desarrollar una planificación de gestión de redes sociales, se deberían hacer planificaciones semanales y justificar el por qué se planifica de esta forma.

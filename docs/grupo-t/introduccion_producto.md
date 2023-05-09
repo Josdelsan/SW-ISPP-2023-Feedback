@@ -40,7 +40,8 @@ sidebar_position: 7
 ## Semana 10 (Evaluación - S3)
 
 - En el storyboard de inversores es bueno representar historias de exito y presentar el producto de una forma sencilla, haciendo hincapié en la capacidad del equipo.
+- En el anuncio se debe distinguir bien los beneficios del uso de la aplicación. Una buena forma de hacer esto es comparar al usuario de la aplicación con otra persona que no sea usuario.
 
 ## Semana 11 (PPL)
 
-- No procede
+- Al introducir el producto, se espera que el producto sea presentado después del opener, que es donde se debería explicar el problema.
