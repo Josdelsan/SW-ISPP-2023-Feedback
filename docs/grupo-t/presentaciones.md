@@ -225,3 +225,7 @@ sidebar_position: 9
 - Está bien incluir banners publicitarios en la presentación para que los profesores puedan dar feedback.
 - A la hora de hablar sobre análiticas en redes sociales, es buena idea fijar una serie de objetivos a alcanzar para estas.
 - Es bueno mostrar analíticas de las distintas redes sociales escogidas y sus publicaciones para ver, entre otras características, el alcance que se está teniendo.
+
+## Semana 12 (Evaluación - PPL)
+
+- Importante hilar bien la narrativa de la presentación, desde el inicio efectivo hasta la demo y los anuncios.

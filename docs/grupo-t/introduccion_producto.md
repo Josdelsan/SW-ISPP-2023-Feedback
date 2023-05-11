@@ -45,3 +45,8 @@ sidebar_position: 7
 ## Semana 11 (PPL)
 
 - Al introducir el producto, se espera que el producto sea presentado después del opener, que es donde se debería explicar el problema.
+
+## Semana 12 (Evaluación - PPL)
+
+- Es importantre asegurarse de que la demo se vea bien, haciendo zoom donde sea oportuno. Es recomendable que se practique en casa reduciendo el tamaño de la pantalla.
+- La demo debe incluir datos realistas. Tanto la calidad de los datos como la cantidad de ellos (es decir, todas las entradas de la demo deben parecer realistas, y debe haber una cantidad de entradas suficientemente alta como para que se vea cómo sería la aplicación en producción).

@@ -53,3 +53,13 @@ sidebar_position: 8
 - Es importante justificar con datos la decisión de acercarse más a un tipo de público u otro.
 - Al intentar conocer mejor a la audiencia de la aplicación, es recomendable hacer entrevistas, pero se debe tener claro a quién se le hace estas entrevistas y qué se busca sacar de ellas.
 - Al desarrollar una planificación de gestión de redes sociales, se deberían hacer planificaciones semanales y justificar el por qué se planifica de esta forma.
+
+## Semana 12 (Evaluación - PPL)
+
+- Es importante que se cubran bien las necesidades de los clientes. Lo ideal es investigar los intereses de la audiencia a través de encuestas.
+- Si se ha trabajado en redes sociales, se deberían mostrar capturas de pantalla en la presentación.
+- Importante marcar objetivos en la campaña de marketing y marcar el nivel de progresión de estos objetivos.
+- Al hablar del modelo de segmentación y audiencia del producto, se deberían incluir ejemplos de perfil de personas.
+- La presentación se debería orientar más mostrar resultados y objetivos de la campaña de marketing, no tanto a mostrar las intenciones del equipo.
+- Si en el modelo de segmentación se especifica que no se restringe la app por franjas de edad, es conveniente que los perfiles tengan edad variada.
+- El modelo de segmentación demográfico debería llamarse firmográfico.

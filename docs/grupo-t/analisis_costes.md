@@ -60,6 +60,15 @@ sidebar_position: 2
 
 ## Semana 11 (PPL)
 
-- Si se tiene pensado hacer una colaboración con un influences, dicho coste debe tenerse en cuenta en los costes de marketing.
+- Si se tiene pensado hacer una colaboración con un influencers, dicho coste debe tenerse en cuenta en los costes de marketing.
 - En los costes de marketing deben tenerse en consideración las herramientas y las licencias utilizadas.
 - El incremento de usuarios de usuarios en el análisis de rentabilidad no debe ser demasiado optimista (hablar de un incremento mensual del 30%). 
+
+
+## Semana 12 (Evaluación - PPL)
+
+- Al denotar millares, se debería usar "k" en lugar de "000". Además, se deben redondear los números y no incluir decimales.
+- En el eje de abscisas, en vez de poner "mes 1", "mes 2", etc, se debería poner sólo el número (y posiblemente omitir algunos números para hacerlo más legible), y poner debajo de todos los números "mes". De esta forma, se puede hacer el texto más grande y visible.
+- Una buena forma de categorizar costes es distinguirlos entre costes gastados y por gastar.
+- Es recomendable usar colores para categorizar costes y gastos.
+- Se debe buscar un retorno de la inversión en una cantidad de tiempo razonable. Por ejemplo, 10 años es demasiado tiempo.

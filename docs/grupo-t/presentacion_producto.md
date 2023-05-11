@@ -75,3 +75,7 @@ sidebar_position: 12
 - En el anuncio de inversores debe quedar bien justificado el por qué se necesita el dinero.
 - Incluir en los anuncios gráficas con fondo negro pueden dificultar su visibilidad y entendimiento.
 - Al hacer el anuncio de inversores, es conveniente no sólo explicar que se recuperará la inversión, sino que es más recomendable especificar en qué momento se empezarán a tener ganancias significativas (tengamos en cuenta que la idea de invertir en un producto es sacar beneficio de él).
+
+## Semana 12 (Evaluación - PPL)
+
+- Hacer uso de ejemplos en el anuncio de inversores ayuda a entender mejor el beneficio de invertir. Mencionar cuánto se ganaría en tanto tiempo si se inviertiera cierta cantidad de dinero.

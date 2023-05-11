@@ -53,3 +53,7 @@ sidebar_position: 1
 ## Semana 11 (PPL)
 
 - No procede
+
+## Semana 12 (Evaluación - PPL)
+
+- En lugar de usar texto que probablemente se vea pequeño, es mejor usar logos para las distintas aplicaciones que estamos comparando. Si hace falta, se deberían reducir la cantidad de competidores mostrados en la diapositiva si eso ayuda a que sea más legible.

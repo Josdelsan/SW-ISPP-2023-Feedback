@@ -58,3 +58,7 @@ sidebar_position: 11
 ## Semana 11 (PPL)
 
 - En la etapa en la que nos encontramos, no debe darse tanta información técnica sobre el equipo. La presentación debe enfocarse a las capacidades del equipo y no a las capacidades individuales, por ejemplo, haciendo referencia al número total de miembros que lo componen.
+
+## Semana 12 (Evaluación - PPL)
+
+- Es importante simplificar las transparencias dedicadas a la presentación del equipo, y orientarlas a las competencias generales del equipo.
